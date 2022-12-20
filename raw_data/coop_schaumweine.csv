@@ -1,4 +1,4 @@
-﻿web-scraper-order,typ,schaumweine-href,wein_name_raw,jahrgang_raw,genussreife_raw,land_raw,region_raw,produzent_raw,rebsorte_raw,alkohol_raw,inhalt_raw,preis_chf_raw
+﻿web-scraper-order,typ,href,wein_name_raw,jahrgang_raw,genussreife_raw,land_raw,region_raw,produzent_raw,rebsorte_raw,alkohol_raw,inhalt_raw,preis_chf_raw
 1671144601-6655,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/freixenet-spumante-italian-rose/p/6585198,Freixenet Spumante Italian Rosé,2022-2023,Italien,Venetien,null,diverse Sorten,null,11.00%,75cl,10.95
 1671144604-6657,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/freixenet-legero-alcohol-free/p/5980959,Freixenet Legero Alcohol Free,2022-2025,Spanien,Katalonien,null,Muscadelle,Mehr über diesen Wein erfahren,0.05%,75cl,8.95
 1671144606-6658,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/freixenet-ice-rose-cava-do/p/6556673,Freixenet Ice Rosé Cava DO,2021-2023,Spanien,Katalonien,null,"Grenache, 

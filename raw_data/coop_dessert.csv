@@ -1,4 +1,4 @@
-﻿web-scraper-order,typ,dessert-href,wein_name_raw,jahrgang_raw,genussreife_raw,land_raw,region_raw,produzent_raw,rebsorte_raw,alkohol_raw,inhalt_raw,preis_chf_raw
+﻿web-scraper-order,typ,href,wein_name_raw,jahrgang_raw,genussreife_raw,land_raw,region_raw,produzent_raw,rebsorte_raw,alkohol_raw,inhalt_raw,preis_chf_raw
 1671145607-7088,dessert,https://www.coop.ch/de/weine/wein-sortiment/suess-dessertweine/vin-de-constance-natural-sweet-wine-klein-konstantia/p/7099454001,Vin de Constance Natural Sweet Wine Klein Konstantia,2019,2024-2040,Südafrika,null,"Antonio Galloni: 97 
  James Suckling: 97",null,13.90%,50cl,54.95
 1671145609-7089,dessert,https://www.coop.ch/de/weine/wein-sortiment/suess-dessertweine/valais-aoc-dessert-hurlevent/p/1001871016,Valais AOC Dessert Hurlevent,2019,2022-2023,Schweiz,Wallis,Les Fils de Charles Favre,Pinot Gris,11.60%,37.5cl,19.95

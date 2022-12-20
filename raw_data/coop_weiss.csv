@@ -1,4 +1,4 @@
-﻿web-scraper-order,typ,weiss-href,wein_name_raw,jahrgang_raw,genussreife_raw,land_raw,region_raw,produzent_raw,rebsorte_raw,alkohol_raw,inhalt_raw,preis_chf_raw
+﻿web-scraper-order,typ,href,wein_name_raw,jahrgang_raw,genussreife_raw,land_raw,region_raw,produzent_raw,rebsorte_raw,alkohol_raw,inhalt_raw,preis_chf_raw
 1671139449-4552,weiss,https://www.coop.ch/de/weine/wein-sortiment/weissweine/bel-horizon-la-cote-aoc/p/3171168,Bel-Horizon La Côte AOC,,2022-2025,Schweiz,Waadt,Chasselas,null,12.50%,50cl,4.3
 1671139452-4553,weiss,https://www.coop.ch/de/weine/wein-sortiment/weissweine/beerenauslese-saulheimer-thoerle/p/1013267001,Beerenauslese Saulheimer Thörle,2011,2022-2025,Deutschland,null,Weingut Thörle,Riesling,75.00%,37.5cl,44.95
 1671139455-4555,weiss,https://www.coop.ch/de/weine/wein-sortiment/weissweine/batroun-mo-cuvee-altitudes-white-ixsir/p/1017902001,Batroun MO Cuvée Altitudes White Ixsir,2021,2022-2028,null,null,"Muscat,               Viognier",null,14.50%,75cl,22

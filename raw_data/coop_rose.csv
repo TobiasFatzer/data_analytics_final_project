@@ -1,4 +1,4 @@
-﻿web-scraper-order,typ,rose-href,wein_name_raw,jahrgang_raw,genussreife_raw,land_raw,region_raw,produzent_raw,rebsorte_raw,alkohol_raw,inhalt_raw,preis_chf_raw
+﻿web-scraper-order,typ,href,wein_name_raw,jahrgang_raw,genussreife_raw,land_raw,region_raw,produzent_raw,rebsorte_raw,alkohol_raw,inhalt_raw,preis_chf_raw
 1671142045-5805,rose,https://www.coop.ch/de/weine/wein-sortiment/roseweine/languedoc-rose-source-of-joy-gerard-bertrand/p/1016503002,Languedoc Rosé Source of Joy Gerard Bertrand,2021,2023-2025,Frankreich,Languedoc-Roussillon,Gérard Bertrand,Syrah,14.00%,75cl,12.95
 1671142048-5806,rose,https://www.coop.ch/de/weine/wein-sortiment/roseweine/languedoc-igp-l-estil-sable-de-camarague/p/6876334,Languedoc IGP L'Estil Sable de Camarague,null,2022-2025,Frankreich,Languedoc-Roussillon,diverse Sorten,null,12.00%,75cl,6.25
 1671142051-5807,rose,https://www.coop.ch/de/weine/wein-sortiment/roseweine/languedoc-carbrieres-aop-clos-du-temple-g-bertrand/p/1015334002,Languedoc Carbrières AOP Clos du Temple G. Bertrand,2019,2022-2025,Frankreich,Languedoc-Roussillon,Gérard Bertrand,Grenache,0.00%,75cl,195

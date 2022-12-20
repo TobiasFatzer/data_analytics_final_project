@@ -1,4 +1,4 @@
-﻿web-scraper-order,typ,rot-href,wein_name_raw,jahrgang_raw,genussreife_raw,land_raw,region_raw,produzent_raw,rebsorte_raw,alkohol_raw,inhalt_raw,preis_chf_raw
+﻿web-scraper-order,typ,href,wein_name_raw,jahrgang_raw,genussreife_raw,land_raw,region_raw,produzent_raw,rebsorte_raw,alkohol_raw,inhalt_raw,preis_chf_raw
 1671138041-4172,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/apothic-inferno-red-blend-wine-with-a-whiskey-soul/p/1014373004,Apothic Inferno Red Blend Wine with a Whiskey Soul,2018,2022-2023,USA,null,E. & J. Gallo Winery,null,16.00%,75cl,19.95
 1671138044-4173,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/apothic-dark-california-red-blend/p/1015603001,Apothic Dark California Red Blend,2016,2022-2024,USA,null,diverse Sorten,null,14.00%,75cl,12.95
 1671138046-4174,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/antonini-monte-chiara-montepulciano-d-abruzzo-doc/p/1000566017,Antonini Monte Chiara Montepulciano d'Abruzzo DOC,2020,2023-2024,Italien,Abruzzen,Montepulciano,null,12.50%,75cl,3.75
