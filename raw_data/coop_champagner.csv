@@ -1,4 +1,4 @@
-﻿web-scraper-order,typ,champagner-href,wein_name_raw,jahrgang_raw,genussreife_raw,land_raw,region_raw,produzent_raw,rebsorte_raw,alkohol_raw,inhalt_raw,preis_chf_raw
+﻿web-scraper-order,typ,href,wein_name_raw,jahrgang_raw,genussreife_raw,land_raw,region_raw,produzent_raw,rebsorte_raw,alkohol_raw,inhalt_raw,preis_chf_raw
 1671144153-6465,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-r-de-ruinart-brut/p/5965090,Champagne AOC R de Ruinart brut,null,2020-2021,Frankreich,Champagne,null,Chardonnay,12.00%,75cl,59.95
 1671144155-6467,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-prestige-diebolt-vallois/p/5680607,Champagne AOC Prestige Diebolt-Vallois,null,null,Frankreich,Champagne,null,Chardonnay,12.00%,75cl,44.95
 1671144157-6468,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-pommery-brut-royal-silver/p/7030249,Champagne AOC Pommery Brut Royal Silver,null,2022-2025,Frankreich,Champagne,null,"Chardonnay, 

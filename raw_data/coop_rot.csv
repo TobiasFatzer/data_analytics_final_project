@@ -1,6 +1,6 @@
 ﻿web-scraper-order,typ,href,wein_name_raw,jahrgang_raw,genussreife_raw,land_raw,region_raw,produzent_raw,rebsorte_raw,alkohol_raw,inhalt_raw,preis_chf_raw
 1671138041-4172,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/apothic-inferno-red-blend-wine-with-a-whiskey-soul/p/1014373004,Apothic Inferno Red Blend Wine with a Whiskey Soul,2018,2022-2023,USA,null,E. & J. Gallo Winery,null,16.00%,75cl,19.95
-1671138044-4173,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/apothic-dark-california-red-blend/p/1015603001,Apothic Dark California Red Blend,2016,2022-2024,USA,null,diverse Sorten,null,14.00%,75cl,12.95
+1671138044-4173,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/apothic-dark-california-red-blend/p/1015603001,Apothic Dark California Red Blend,2016,2022-2024,USA,null,,diverse Sorten,14.00%,75cl,12.95
 1671138046-4174,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/antonini-monte-chiara-montepulciano-d-abruzzo-doc/p/1000566017,Antonini Monte Chiara Montepulciano d'Abruzzo DOC,2020,2023-2024,Italien,Abruzzen,Montepulciano,null,12.50%,75cl,3.75
 1671138049-4175,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/angelin-langhe-nebbiolo-doc/p/1018542001,Angelin Langhe Nebbiolo DOC,2021,2022-2026,Italien,Piemont,Angelo Negro,Nebbiolo,14.00%,75cl,17.5
 1671138052-4176,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/amarone-della-valpolicella-docg-vigne-alte-zeni/p/1000022016,Amarone della Valpolicella DOCG Vigne Alte Zeni,2019,2024-2028,Italien,Venetien,Cantina Zeni,Molinara,15.50%,75cl,32.95
@@ -12,23 +12,23 @@
 1671138069-4182,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/amarone-della-valpolicella-docg-cesari/p/1009760009,Amarone della Valpolicella DOCG Cesari,2017,2023-2026,Italien,Venetien,Gerardo Cesari,Molinara,15.00%,37.5cl,14.5
 1671138073-4183,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/amarone-della-valpolicella-docg-brigaldara/p/1000976016,Amarone della Valpolicella DOCG Brigaldara,2017,2023-2024,Italien,Venetien,Azienda Agricola Brigaldara,Corvina,16.00%,75cl,29.95
 1671138076-4184,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/amarone-della-valpolicella-docg-brigaldara/p/1000976015,Amarone della Valpolicella DOCG Brigaldara,2016,2022-2023,Italien,Venetien,Azienda Agricola Brigaldara,Corvina,16.00%,75cl,29.95
-1671138079-4185,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/amarone-della-valpolicella-docg-bertani/p/1017132001,Amarone della Valpolicella DOCG Bertani,2019,2022-2029,Italien,Venetien,"Refosco, 
+1671138079-4185,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/amarone-della-valpolicella-docg-bertani/p/1017132001,Amarone della Valpolicella DOCG Bertani,2019,2022-2029,Italien,Venetien,,"Refosco, 
                                 Corvina, 
-                                Rondinella",null,15.00%,75cl,28.5
+                                Rondinella",15.00%,75cl,28.5
 1671138081-4186,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/amarone-della-valpolicella-doc-cuvee-azienda-agricola-zanoni/p/1017991001,Amarone della Valpolicella DOC Cuvée Azienda Agricola Zanoni,2013,2022-2030,Italien,Venetien,Azienda Agricola Zanoni,Corvina,16.50%,75cl,53
 1671138083-4187,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/amarone-della-valpolicella-doc-costasera-masi/p/1012955010,Amarone della Valpolicella DOC Costasera Masi,2017,2023-2029,Italien,Venetien,Masi,Molinara,15.00%,75cl,36.95
 1671138086-4188,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/amarone-della-valpolicella-conte-di-valle-palazzo-maffei-doc/p/1007910011,Amarone della Valpolicella Conte di Valle Palazzo Maffei DOC,2015,2022-2025,Italien,Venetien,Palazzo Maffei,Molinara,16.00%,75cl,39.5
-1671138089-4189,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/amarone-della-valpolicella-classico-doc-mazzano-masi-agricola/p/1014378003,Amarone della Valpolicella Classico DOC Mazzano Masi Agricola,2013,null,Italien,Venetien,"Molinara, 
+1671138089-4189,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/amarone-della-valpolicella-classico-doc-mazzano-masi-agricola/p/1014378003,Amarone della Valpolicella Classico DOC Mazzano Masi Agricola,2013,null,Italien,Venetien,,"Molinara, 
                                 Corvina, 
-                                Rondinella",null,16.00%,75cl,135
+                                Rondinella",16.00%,75cl,135
 1671138092-4190,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/amarone-della-valpolicella-classico-docg-zeni/p/1014139006,Amarone della Valpolicella Classico DOCG Zeni,2018,2022-2025,Italien,Venetien,Cantina Zeni,Molinara,15.00%,150cl,47.5
 1671138095-4191,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/amarone-della-valpolicella-classico-docg-zeni/p/1014139007,Amarone della Valpolicella Classico DOCG Zeni,2019,2023-2026,Italien,Venetien,Cantina Zeni,Molinara,15.00%,150cl,47.5
 1671138098-4192,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/amarone-della-valpolicella-classico-doc-campolongo-di-torbe-masi/p/1013755004,Amarone della Valpolicella Classico DOC Campolongo di Torbe Masi,2012,2023-2035,Italien,Venetien,Masi,Molinara,16.00%,75cl,129
 1671138101-4193,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/amarone-della-valpolicella-bosan-cesari-doc/p/1000023011,Amarone della Valpolicella Bosan Cesari DOC,2013,2021-2022,Italien,Venetien,Gerardo Cesari,Molinara,15.50%,75cl,49.95
 1671138104-4194,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/amanet-vranac-winery-aleksic/p/1017744002,Amanet Vranac Winery Aleksic,2019,2022-2026,null,null,null,null,15.00%,75cl,14.6
 1671138106-4195,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/amancaya-gran-reserva-bodegas-caro-mendoza/p/1011309006,Amancaya Gran Reserva Bodegas Caro Mendoza,2017,2022-2023,Argentinien,Mendoza,Domaines Barons de Rothschild,Cabernet Sauvignon,14.00%,75cl,19.95
-1671138108-4196,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/alvaro-malbec-reserva-mendoza/p/1015513005,Alvaro Malbec Reserva Mendoza,2021,2020-2023,Argentinien,Mendoza,Malbec,null,14.50%,75cl,16.5
-1671138112-4197,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/alvaro-malbec-reserva-mendoza/p/1015513003,Alvaro Malbec Reserva Mendoza,2019,2022-2024,Argentinien,Mendoza,Malbec,null,14.50%,75cl,16.5
+1671138108-4196,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/alvaro-malbec-reserva-mendoza/p/1015513005,Alvaro Malbec Reserva Mendoza,2021,2020-2023,Argentinien,Mendoza,,Malbec,14.50%,75cl,16.5
+1671138112-4197,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/alvaro-malbec-reserva-mendoza/p/1015513003,Alvaro Malbec Reserva Mendoza,2019,2022-2024,Argentinien,Mendoza,,Malbec,14.50%,75cl,16.5
 1671138115-4198,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/spanien-portugal/alta-sierra-monastrell-espaa/p/3170382,Alta Sierra Monastrell España,null,null,Spanien,Murcia,Monastrell,null,12.50%,100cl,2.95
 1671138117-4199,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/aloxe-corton-aoc-ravaut/p/3173005007,Aloxe-Corton AOC Ravaut,2018,2022-2028,Frankreich,null,Domaine Gaston et Pierre Ravaut,Pinot Noir,13.50%,75cl,32.5
 1671138119-4200,rot,https://www.coop.ch/de/weine/wein-sortiment/rotweine/almaviva-baron-philippe-de-rothschild-et-vina-concha-y-toro/p/7095735001,Almaviva Baron Philippe de Rothschild et Vina Concha y Toro,2020,2024-2034,Chile,null,Concha y Toro,Cabernet Franc,14.00%,75cl,145.5
