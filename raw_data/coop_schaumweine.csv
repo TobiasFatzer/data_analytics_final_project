@@ -1,53 +1,49 @@
 ﻿web-scraper-order,typ,href,wein_name_raw,jahrgang_raw,genussreife_raw,land_raw,region_raw,produzent_raw,rebsorte_raw,alkohol_raw,inhalt_raw,preis_chf_raw
 1671144601-6655,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/freixenet-spumante-italian-rose/p/6585198,Freixenet Spumante Italian Rosé,null,2022-2023,Italien,Venetien,,diverse Sorten,11.00%,75cl,10.95
 1671144604-6657,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/freixenet-legero-alcohol-free/p/5980959,Freixenet Legero Alcohol Free,null,2022-2025,Spanien,Katalonien,,Muscadelle,0.05%,75cl,8.95
-1671144606-6658,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/freixenet-ice-rose-cava-do/p/6556673,Freixenet Ice Rosé Cava DO,null,2021-2023,Spanien,Katalonien,,"Grenache, 
-                                Chardonnay, 
-                                Pinot Noir",12.00%,75cl,14.95
+1671144606-6658,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/freixenet-ice-rose-cava-do/p/6556673,Freixenet Ice Rosé Cava DO,null,2021-2023,Spanien,Katalonien,,"Grenache,  Chardonnay, Pinot Noir",12.00%,75cl,14.95
 1671144608-6660,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/freixenet-cava-cordon-negro-seco/p/3170706,Freixenet Cava Cordon Negro seco,null,2022-2025,Spanien,Katalonien,,"Macabeo, 
-                                Parellada",11.50%,75cl,8.95
+ Parellada",11.50%,75cl,8.95
 1671144611-6661,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/spanien/freixenet-carta-nevada-semi-seco-metodo-tradicional/p/3170786,Freixenet Carta Nevada semi-seco Método tradicional,null,2022-2025,Spanien,Katalonien,,"Macabeo, 
-                                Parellada",11.50%,75cl,6.95
+ Parellada",11.50%,75cl,6.95
 1671144614-6663,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/spanien/freixenet-carta-nevada-cava-semi-seco/p/3171963,Freixenet Carta Nevada Cava semi-seco,null,2022-2025,Spanien,Katalonien,,"Macabeo, 
-                                Parellada",11.50%,60cl,9.9
+ Parellada",11.50%,60cl,9.9
 1671144616-6664,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/franciacorta-docg-saten-brut-mirabella/p/6806972,Franciacorta DOCG Satèn Brut Mirabella,null,2022-2024,Italien,Lombardei/Veltlin,,"Chardonnay, 
-                                Pinot Blanc",12.50%,75cl,27.5
+ Pinot Blanc",12.50%,75cl,27.5
 1671144619-6666,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/franciacorta-docg-rose-contadi-castaldi/p/6845270,Franciacorta DOCG Rosé Contadi Castaldi,null,2022-2024,Italien,Lombardei/Veltlin,,"Chardonnay, 
-                                Pinot Noir",12.50%,75cl,29.5
+ Pinot Noir",12.50%,75cl,29.5
 1671144622-6667,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/franciacorta-docg-mirabella-brut/p/5610607,Franciacorta DOCG Mirabella Brut,null,2022-2025,Italien,Lombardei/Veltlin,,"Chardonnay, 
-                                Pinot Blanc",12.50%,75cl,14.95
-1671144624-6669,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/franciacorta-docg-dm-riserva-dosaggio-zero-mirabella/p/7042708,Franciacorta DOCG DØM Riserva Dosaggio Zero Mirabella,null,2022-2033,Italien,Lombardei/Veltlin,,"Chardonnay, 
-                                Pinot Blanc, 
-                                Pinot Noir",12.50%,75cl,39.95
-1671144627-6670,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/franciacorta-docg-demetra-brut-nature-mirabella/p/7040900,Franciacorta DOCG Demetra Brut Nature Mirabella,null,2023-2030,Italien,Lombardei/Veltlin,,"Chardonnay, 
-                                Pinot Blanc, 
-                                Pinot Noir",12.50%,75cl,29.95
+ Pinot Blanc",12.50%,75cl,14.95
+1671144624-6669,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/franciacorta-docg-dm-riserva-dosaggio-zero-mirabella/p/7042708,Franciacorta DOCG DØM Riserva Dosaggio Zero Mirabella,null,2022-2033,Italien,Lombardei/Veltlin,,"Chardonnay, Pinot Blanc, 
+ Pinot Noir",12.50%,75cl,39.95
+1671144627-6670,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/franciacorta-docg-demetra-brut-nature-mirabella/p/7040900,Franciacorta DOCG Demetra Brut Nature Mirabella,null,2023-2030,Italien,Lombardei/Veltlin,,"Chardonnay, Pinot Blanc, 
+ Pinot Noir",12.50%,75cl,29.95
 1671144629-6672,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/franciacorta-docg-ca-del-bosco-cuvee-prestige/p/5889467,Franciacorta DOCG Ca' del Bosco Cuvée Prestige,null,2022-2025,Italien,Lombardei/Veltlin,Robert Parker: 91,null,12.50%,75cl,39.95
 1671144632-6673,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/festillant-blanc-alkoholfrei-gratien-meyer/p/5980969,Festillant Blanc Alkoholfrei Gratien & Meyer,null,2022-2025,Frankreich,null,null,null,0.50%,75cl,6.5
 1671144634-6674,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/divin-wine-seltzer/p/6871923,Divin Wine Seltzer,null,2022-2025,Frankreich,Loire,null,"diverse Sorten, 
-                                Sauvignon Blanc",4.80%,120cl,8.15
+ Sauvignon Blanc",4.80%,120cl,8.15
 1671144637-6675,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/spanien/de-nit-rosado-ravents-i-blanc/p/1016892001,De Nit Rosado Raventós i Blanc,2018,2022-2026,Spanien,Katalonien,Raventós i Blanc,Macabeo,12.00%,75cl,24.5
 1671144639-6676,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/diverse/cuvee-rose-weingut-kracher-brut/p/7046925,Cuveé Rosé Weingut Kracher Brut,,2022-2028,Österreich,null,,"Chardonnay, 
-                                Pinot Blanc, 
-                                Zweigelt",12.50%,75cl,26.9
+ Pinot Blanc, 
+ Zweigelt",12.50%,75cl,26.9
 1671144641-6677,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/cremant-de-loire-brut-gratien-meyer/p/7070410,Crémant de Loire Brut Gratien & Meyer,,,Frankreich,Loire,,Cabernet Franc,12.00%,75cl,10.95
 1671144644-6678,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/cremant-de-bourgogne-aoc-brut-reserve-albert-bichot/p/6306020,Crémant de Bourgogne AOC brut Réserve Albert Bichot,,2020-2025,Frankreich,Burgund,,"Chardonnay, 
-                                Pinot Noir",12.50%,75cl,12.95
+ Pinot Noir",12.50%,75cl,12.95
 1671144646-6679,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/cremant-de-bordeaux-aop-millesime-domaine-jaillance/p/1016654005,Crémant de Bordeaux AOP Millésimé Domaine Jaillance,2019,,Frankreich,Cabernet Franc,,null,12.50%,75cl,12.5
 1671144649-6680,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/cremant-d-alsace-brut-premium-bestheim/p/7024343,Crémant d'Alsace Brut Premium Bestheim,null,,Frankreich,Elsass,null,Pinot Blanc,12.00%,75cl,9.95
 1671144652-6681,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/cremant-d-alsace-aop-rose-wolfberger/p/5716916,Crémant d'Alsace AOP Rosé Wolfberger,,2022-2025,Frankreich,Elsass,null,Pinot Noir,12.00%,75cl,9.5
 1671144655-6682,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/conegliano-valdobbiadene-prosecco-docg-superiore-rive-di-ogliano-brut-masottina/p/6805042,Conegliano Valdobbiadene Prosecco DOCG Superiore Rive di Ogliano Brut Masottina,,2022-2024,Italien,Venetien,null,null,12.00%,75cl,17.5
-1671144658-6683,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/conegliano-valdobbiadene-docg-prosecco-superiore-brut-cooperation-wine/p/5844351,Conegliano Valdobbiadene DOCG Prosecco Superiore  brut Cooperation Wine,,2022-2025,Italien,Venetien,Glera,null,11.00%,75cl,10.95
+1671144658-6683,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/conegliano-valdobbiadene-docg-prosecco-superiore-brut-cooperation-wine/p/5844351,Conegliano Valdobbiadene DOCG Prosecco Superiore brut Cooperation Wine,,2022-2025,Italien,Venetien,Glera,null,11.00%,75cl,10.95
 1671144660-6684,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/colli-piacentini-dop-bonarda-dolce-frizzante-violetto/p/1017416001,Colli Piacentini DOP Bonarda dolce frizzante Violetto,2021,2022-2024,Italien,Emilia-Romagna,Bonarda,null,9.00%,75cl,7.95
 1671144663-6685,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/spanien/codornu-seleccin-ravents-brut/p/3415672,Codorníu Selección Raventós brut,,2022-2025,Spanien,Katalonien,null,"Chardonnay, 
-                                Macabeo, 
-                                Xarel-lo",11.50%,75cl,9.95
+ Macabeo, 
+ Xarel-lo",11.50%,75cl,9.95
 1671144666-6686,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/spanien/codorniu-clasico-semi-seco-3x20cl/p/3478245,Codorniu Clasico semi seco 3x20cl,,2022-2025,Spanien,Katalonien,null,"Chardonnay, 
-                                Macabeo, 
-                                Xarel-lo",11.50%,60cl,9.9
+ Macabeo, 
+ Xarel-lo",11.50%,60cl,9.9
 1671144668-6687,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/codornu-cava-clasico-semi-seco-do/p/3170459,Codorníu Cava Clasico semi-seco DO,,2022-2025,Spanien,Katalonien,null,"Macabeo, 
-                                Xarel-lo, 
-                                Parellada",11.50%,75cl,6.95
+ Xarel-lo, 
+ Parellada",11.50%,75cl,6.95
 1671144670-6688,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/spanien/codornu-cava-anna-blanc-de-blancs-brut/p/6882151,Codorníu Cava Anna Blanc De Blancs Brut,,2022-2025,Spanien,Katalonien,null,Chardonnay,13.00%,75cl,9.45
 1671144673-6689,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/codornu-ars-collecta-grand-rose-brut/p/7042351,Codorníu Ars Collecta Grand Rosé Brut,,,Spanien,Katalonien,null,null,12.00%,75cl,12.95
 1671144676-6690,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/spanien/codornu-anna-blanc-de-blancs-brut/p/7030244,Codorníu Anna Blanc De Blancs Brut,,,Spanien,Katalonien,null,Chardonnay,13.00%,37.5cl,8.95
@@ -55,23 +51,23 @@
 1671144682-6693,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/clairette-de-die-aoc-tradition-jaillance/p/3547930,Clairette de Die AOC Tradition Jaillance,,2022-2025,Frankreich,Côtes du Rhône,Clairette,null,7.00%,75cl,8.75
 1671144684-6695,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/diverse/chateau-tanunda-blanc-de-blancs-grande-cuvee-eden-valley/p/1015740001,Château Tanunda Blanc de Blancs Grande Cuvée Eden Valley,2009,2022-2029,Australien,null,Château Tanunda,Chardonnay,11.50%,75cl,19.95
 1671144687-6697,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/champagne-aoc-veuve-clicquot-yellow-label-ice-box/p/7014270,Champagne AOC Veuve Clicquot Yellow Label Ice Box,,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
-                                Pinot Meunier",12.00%,75cl,54.5
+ Pinot Meunier",12.00%,75cl,54.5
 1671144690-6699,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/champagne-aoc-pommery-apanage-blanc-de-blancs/p/6756459,Champagne AOC Pommery Apanage Blanc de Blancs,,2022-2026,Frankreich,Champagne,null,Chardonnay,12.50%,75cl,49.95
 1671144693-6701,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/champagne-aoc-mumm-grand-cordon-rose-brut/p/6785477,Champagne AOC Mumm Grand Cordon Rosé Brut,,,Frankreich,Champagne,null,null,12.00%,75cl,49.45
 1671144695-6703,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/champagne-aoc-millesime-cuvee-speciale-nicolas-feuillatte/p/1012912008,Champagne AOC millésime Cuvée Spéciale Nicolas Feuillatte,2016,2022-2025,Frankreich,Champagne,Nicolas Feuillatte,Chardonnay,12.00%,75cl,26.95
 1671144698-6705,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/champagne-aoc-edition-d-exception-brut-charles-bertin/p/6222661,Champagne AOC Edition d'Exception brut Charles Bertin,,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
-                                Pinot Noir, 
-                                Pinot Meunier",12.00%,75cl,28.5
+ Pinot Noir, 
+ Pinot Meunier",12.00%,75cl,28.5
 1671144701-6707,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/schweiz/chamois-besserstein-brut-75cl/p/4860547,Chamois Besserstein brut 75cl,,,Schweiz,Basel/Aargau,null,null,12.50%,75cl,22.5
 1671144704-6710,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/spanien/cava-elyssia-gran-cuvee-brut-freixenet/p/5618497,Cava Elyssia Gran Cuvée brut Freixenet,,2022-2025,Spanien,Katalonien,null,"Chardonnay, 
-                                Macabeo, 
-                                Pinot Noir, 
-                                Parellada",12.00%,75cl,14.95
+ Macabeo, 
+ Pinot Noir, 
+ Parellada",12.00%,75cl,14.95
 1671144707-6712,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/cava-do-gran-reserva-brut-nature-juve-camps/p/7043177,Cava DO Gran Reserva Brut Nature Juvé & Camps,,,Spanien,Katalonien,Macabeo,null,12.00%,75cl,21.95
 1671144710-6714,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/spanien/cava-do-cuvee-especial-ice-freixenet-semi-seco/p/5750004,Cava DO Cuvée Especial Ice Freixenet semi-seco,,2022-2025,Spanien,Katalonien,null,"Chardonnay, 
-                                Macabeo, 
-                                Xarel-lo, 
-                                Parellada",11.50%,75cl,13.5
+ Macabeo, 
+ Xarel-lo, 
+ Parellada",11.50%,75cl,13.5
 1671144713-6716,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/cava-do-ars-collecta-blanc-de-blancs-gran-reserva-codorniu/p/6623047,Cava DO Ars Collecta Blanc de Blancs Gran Reserva Codorniu,,2020-2024,Spanien,Katalonien,null,Chardonnay,11.50%,75cl,12.95
 1671144715-6718,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/carpene-malvolti-prosecco-superiore-extra-dry-docg-3x20cl/p/6990274,Carpenè Malvolti Prosecco Superiore Extra Dry DOCG 3x20cl,,2022-2025,Italien,Venetien,null,Glera,11.00%,60cl,11.4
 1671144719-6720,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/carpene-malvolti-prosecco-superiore-extra-dry-docg/p/3170244,Carpenè Malvolti Prosecco Superiore Extra Dry DOCG,,2022-2025,Italien,Venetien,null,Glera,11.00%,75cl,9.95
@@ -82,23 +78,23 @@
 1671144734-6731,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/cafe-de-paris-fruits-litchi/p/4147282,Café de Paris Fruits Litchi,,2022-2025,Frankreich,null,null,,6.70%,60cl,12.45
 1671144737-6733,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/schweiz/brivio-svizzera-igt-spumante-brut/p/4959178,Brivio Svizzera IGT Spumante Brut,,2022-2025,Schweiz,übrige Schweiz,null,"Merlot, Pinot Bianco",12.50%,75cl,11.95
 1671144740-6736,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/baron-de-schiele-cremant-d-alsace-aop-brut/p/3170157,Baron de Schielé Crémant d'Alsace AOP brut,,2022-2025,Frankreich,Elsass,null,"Auxerrois, 
-                                Chardonnay, 
-                                Pinot Blanc",12.50%,75cl,7.95
+ Chardonnay, 
+ Pinot Blanc",12.50%,75cl,7.95
 1671144744-6738,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/schweiz/bale-secco-buess-brut/p/3600722,Bâle Secco Buess brut,,2022-2025,Schweiz,Basel/Aargau,null,Riesling x Silvaner,12.50%,75cl,15.95
 1671144746-6740,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/schweiz/bale-secco-buess-brut/p/6384209,Bâle Secco Buess brut,,,Schweiz,Basel/Aargau,null,Riesling x Silvaner,12.50%,37.5cl,9.95
 1671144749-6742,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/baccarat-mousseux-rose-brut/p/3170749,Baccarat Mousseux Rosé brut,,2022-2025,Schweiz,Genf,null,null,12.50%,75cl,10.95
 1671144752-6744,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/asti-docg-dolce-millesimato/p/1003163010,Asti DOCG Dolce Millesimato,2021,2024-2027,Italien,null,null,Piemont,7.00%,75cl,6.95
 1671144754-6746,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/argovia-aoc-secco-brut-buess-weinbau/p/6658199,Argovia AOC Secco Brut Buess Weinbau,,,Schweiz,Basel/Aargau,null,Riesling x Silvaner,12.50%,37.5cl,9.95
 1671144757-6748,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/alta-langa-docg-piemonte-millesimato-pas-dose-contratto/p/1018219001,Alta Langa DOCG Piemonte Millésimato Pas Dosé Contratto,2017,2022-2027,Italien,Piemont,null,"Chardonnay, 
-                                Pinot Noir",12.50%,75cl,22.95
+ Pinot Noir",12.50%,75cl,22.95
 1671144760-6750,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/alta-langa-docg-piemonte-blanc-de-noir-for-england-pas-dose-contratto/p/1018221002,Alta Langa DOCG Piemonte Blanc de Noir For England Pas Dosé Contratto,2017,2022-2026,Italien,Piemont,null,Pinot Noir,12.00%,75cl,36.95
 1671144762-6752,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/alsace-aoc-pinot-blanc-cremant-brut-kuehn/p/7047057,Alsace AOC Pinot Blanc Cremant Brut Kuehn,,,Frankreich,Elsass,null,Pinot Blanc,11.50%,75cl,9.95
 1671144863-6781,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/prosecco-doc-rose-vigne-dei-dogi/p/6691291,Prosecco DOC Rosé Vigne dei Dogi,,2022-2023,Italien,Venetien,,Pinot Noir,12.50%,75cl,6.95
 1671144866-6782,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/prosecco-doc-rose-millesimato-brut-masottina/p/6720836,Prosecco DOC Rosé Millesimato Brut Masottina,,2022-2023,Italien,Venetien,null,Pinot Noir,11.50%,75cl,10.95
 1671144869-6783,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/prosecco-doc-rose-millesimato-brut-carpene-malvolti/p/6721977,Prosecco DOC Rosé Millesimato Brut Carpenè Malvolti,,2022-2025,Italien,Venetien,null,"Pinot Noir, 
-                                Glera",11.00%,75cl,9.75
+ Glera",11.00%,75cl,9.75
 1671144871-6784,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/prosecco-doc-rose-1821-brut-zonin-spa/p/6845322,Prosecco DOC Rosé 1821 Brut Zonin Spa,,2022-2025,Italien,Venetien,null,"Pinot Noir, 
-                                Glera",11.00%,75cl,13.9
+ Glera",11.00%,75cl,13.9
 1671144874-6785,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/prosecco-doc-millesimato-giordano/p/6759360,Prosecco DOC Millesimato Giordano,,2022-2024,Italien,Venetien,null,Glera,12.00%,75cl,8.8
 1671144876-6786,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/prosecco-doc-ice-demi-sec-zonin-spa/p/6845321,Prosecco DOC Ice Demi Sec Zonin Spa,,2022-2025,Italien,Venetien,null,Glera,11.00%,75cl,18.9
 1671144878-6787,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/prosecco-docg-gioiosa-extra-dry/p/6707388,Prosecco DOCG Gioiosa Extra Dry,,2022-2023,Italien,Glera,null,null,11.00%,75cl,9.95
@@ -120,21 +116,21 @@
 1671144922-6811,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/naturaplan-bio-prosecco-doc-raphael-dal-bo-extra-dry/p/4027586,Naturaplan Bio Prosecco DOC Raphael Dal Bo Extra Dry,,2022-2025,Italien,Venetien,,Glera,11.00%,75cl,11.95
 1671144926-6813,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/naturaplan-bio-prosecco-doc-la-jara/p/5985486,Naturaplan Bio Prosecco DOC La Jara,,2022-2025,Italien,Venetien,,Glera,11.50%,75cl,8.75
 1671144929-6816,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/schweiz/naturaplan-bio-mousseux-baccarat-brut/p/6479981,Naturaplan bio Mousseux Baccarat brut,,2023-2025,Schweiz,Genf,null,"Muscat, 
-                                Chardonnay",12.50%,75cl,12.7
+ Chardonnay",12.50%,75cl,12.7
 1671144931-6818,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/naturaplan-bio-moscato-raphael-dal-bo-vino-spumante-dolce/p/6024146,Naturaplan Bio Moscato Raphael Dal Bo Vino Spumante Dolce,,2022-2025,Italien,Venetien,null,Muscat,6.50%,75cl,12.5
 1671144934-6820,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/schweiz/naturaplan-bio-la-cote-aoc-b-de-la-cote-mousseux-brut/p/6673338,Naturaplan Bio La Côte AOC B de la Côte mousseux brut,,2020-2023,Schweiz,Waadt,null,"Chasselas, 
-                                Pinot Noir, Garanoir",12.50%,75cl,9.95
+ Pinot Noir, Garanoir",12.50%,75cl,9.95
 1671144937-6822,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/naturaplan-bio-jaillance-clairette-de-die-doux-ac/p/3358076,Naturaplan Bio Jaillance Clairette de Die doux AC,,2022-2025,Frankreich,Côtes du Rhône,null,null,7.00%,75cl,9.45
 1671144940-6824,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/naturaplan-bio-jaillance-clairette-de-die-doux-ac/p/3453209,Naturaplan Bio Jaillance Clairette de Die doux AC,,2022-2025,Frankreich,Côtes du Rhône,null,null,7.00%,37.5cl,8.95
 1671144943-6826,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/naturaplan-bio-frizzante-valdobbiadene-prosecco-docg/p/5741117,Naturaplan Bio Frizzante Valdobbiadene Prosecco DOCG,,2022-2025,Italien,Venetien,null,Glera,11.50%,75cl,7.95
 1671144947-6828,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/naturaplan-bio-cremant-d-alsace-aop-wolfberger-brut/p/4117303,"Naturaplan Bio Crémant d'Alsace AOP Wolfberger, brut",,2022-2025,Frankreich,Elsass,null,"Auxerrois, 
-                                Chardonnay, 
-                                Pinot Blanc, 
-                                Pinot Gris, 
-                                Riesling, 
-                                Pinot Noir",12.00%,75cl,10.5
+ Chardonnay, 
+ Pinot Blanc, 
+ Pinot Gris, 
+ Riesling, 
+ Pinot Noir",12.00%,75cl,10.5
 1671144950-6831,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/schweiz/murailles-rose-brut-h-badoux/p/6795754,Murailles Rosé Brut H. Badoux,,2022-2025,Schweiz,übrige Schweiz,null,"Chardonnay, 
-                                Pinot Noir",12.00%,75cl,15.75
+ Pinot Noir",12.00%,75cl,15.75
 1671144953-6833,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/schweiz/murailles-brut-grand-vin-mousseux/p/5853401,Murailles Brut Grand Vin Mousseux,,2022-2025,Schweiz,übrige Schweiz,null,Chardonnay,13.30%,75cl,15.5
 1671144955-6835,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/schweiz/mousseux-jacques-germanier-brut-millesime/p/1000138015,Mousseux Jacques Germanier brut Millésimé,2016,2023-2026,Schweiz,Wallis,Jaques Germanier,Chardonnay,12.50%,75cl,18.95
 1671144958-6837,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/schweiz/mousseux-chardonnay-blanc-de-blancs-baccarat-brut-etui/p/6112606,Mousseux Chardonnay Blanc de Blancs Baccarat brut Etui,,2022-2025,Schweiz,Genf,null,Chardonnay,12.50%,75cl,10.95
@@ -148,19 +144,19 @@
 1671144981-6853,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/schweiz/mauler-cordon-rose-demi-sec/p/3170030,Mauler Cordon Rosé demi-sec,,2022-2025,Schweiz,Drei-Seen-Region,null,Cabernet Sauvignon,12.00%,75cl,12.5
 1671144983-6855,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/mauler-cadet-mauler-sans-alcool/p/5812218,Mauler Cadet Mauler sans alcool,null,null,null,null,null,null,null,75cl,8.5
 1671144986-6857,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/schweiz/mauler-brut/p/3170582,Mauler Brut,,2022-2024,Schweiz,übrige Schweiz,,"Chardonnay, 
-                                Chenin Blanc",12.50%,75cl,12.5
+ Chenin Blanc",12.50%,75cl,12.5
 1671144989-6860,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/schweiz/mauler-brut/p/5965084,Mauler brut,,2022-2025,Schweiz,übrige Schweiz,,"Chardonnay, 
-                                Colombard, 
-                                Pinot Noir",12.50%,150cl,45
+ Colombard, 
+ Pinot Noir",12.50%,150cl,45
 1671144992-6862,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/schweiz/mauler-brut/p/4890886,Mauler brut,,2022-2025,Schweiz,übrige Schweiz,,Chardonnay,12.50%,37.5cl,9.95
 1671144995-6864,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/masottina-prosecco-treviso-doc-brut/p/5898074,Masottina Prosecco Treviso DOC Brut,,2022-2024,Italien,Venetien,,null,11.00%,75cl,7.95
 1671144999-6866,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/martini-spumante-brut/p/3170063,Martini Spumante Brut,,2022-2025,Italien,null,,Trebbiano,11.50%,75cl,8.95
 1671145001-6868,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/martini-rose-spumante-extra-dry/p/6637331,Martini Rosé spumante Extra dry,,2022-2025,Italien,Piemont,,diverse Sorten,11.50%,75cl,9.95
 1671145004-6870,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/lombardei-docg-franciacorta-61-saten-guido-berlucchi/p/7045156,Lombardei DOCG Franciacorta 61 Satèn Guido Berlucchi,,2022-2028,Italien,Lombardei/Veltlin,,Chardonnay,12.50%,75cl,38.5
 1671145007-6872,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/lombardei-docg-franciacorta-61-rose-guido-berlucchi/p/7045157,Lombardei DOCG Franciacorta 61 Rosé Guido Berlucchi,,2022-2028,Italien,Lombardei/Veltlin,,"Chardonnay, 
-                                Pinot Noir",12.50%,75cl,43.5
+ Pinot Noir",12.50%,75cl,43.5
 1671145010-6874,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/lombardei-docg-franciacorta-61-guido-berlucchi-brut/p/7044569,Lombardei DOCG Franciacorta 61 Guido Berlucchi Brut,,2022-2028,Italien,Lombardei/Veltlin,,"Chardonnay, 
-                                Pinot Noir",12.50%,75cl,37.9
+ Pinot Noir",12.50%,75cl,37.9
 1671145012-6876,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/schweiz/klett-brut-aoc-schaffhausen/p/6399909,KLETT Brut AOC Schaffhausen,,2022-2025,Schweiz,Ostschweiz,,null,11.50%,75cl,9.95
 1671145015-6879,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/j-p-chenet-fizzy-chardonnay/p/6767491,J. P. Chenet Fizzy Chardonnay,,2022-2023,Frankreich,Languedoc-Roussillon,,Chardonnay,13.00%,20cl,1.95
 1671145018-6881,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/il-spriz-mionetto/p/4150110,Il Spriz Mionetto,,2022-2025,Italien,null,,Assemblage de cépages,8.00%,75cl,6.95
@@ -172,21 +168,21 @@
 1671145175-6902,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/schweiz/zueri-secco-buess-brut/p/6146153,Züri Secco Buess brut,,,Schweiz,Zürich,,Riesling,12.50%,37.5cl,9.95
 1671145178-6903,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/zuerich-aoc-zuercher-extra-dry-sparkling/p/6746296,Zürich AOC Zürcher Extra Dry sparkling,,2023-2025,Schweiz,Zürich,,Chardonnay,11.50%,75cl,14.95
 1671145180-6904,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/diverse/white-ice-secco-schlumberger/p/4063812,White Ice Secco Schlumberger,,2022-2025,Österreich,null,,"Chardonnay, 
-                                Welschriesling",11.50%,75cl,9.95
+ Welschriesling",11.50%,75cl,9.95
 1671145183-6905,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/west-sussex-brut-reserve-twenty-eighteen-gusbourne/p/7041106,West Sussex Brut Reserve Twenty Eighteen Gusbourne,2018,,Grossbritannien,Chardonnay,null,null,12.40%,75cl,49.95
 1671145185-6906,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/west-sussex-blanc-de-blancs-twenty-sixteen-chardonnay-gusbourne/p/7041093,West Sussex Blanc de Blancs Twenty Sixteen Chardonnay Gusbourne,2016,,Grossbritannien,Chardonnay,null,null,12.00%,75cl,59.95
 1671145188-6907,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/vino-spumante-d-italia-vigne-resistenti-raphael-dal-bo/p/6628557,Vino Spumante d'Italia Vigne Resistenti Raphael Dal Bo,,2022-2025,Italien,Venetien,null,diverse Sorten,12.50%,75cl,13.95
 1671145190-6908,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/vin-mousseux-brut-blanc-de-blancs-jp-chenet/p/6373555,Vin Mousseux Brut Blanc de Blancs J.P. Chenet,,2022-2025,Frankreich,Languedoc-Roussillon,null,Assemblage de cépages,11.00%,20cl,3.85
 1671145192-6909,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/champagner/vin-mousseux-blanc-de-blancs-brut-dargent/p/5831596,Vin Mousseux Blanc de Blancs Brut Dargent,,2022-2025,Frankreich,null,null,Chardonnay,12.00%,75cl,7.95
 1671145194-6910,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/veneto-prosecco-rose-doc-millesimato-brut-raphael-dal-bo/p/6872597,Veneto Prosecco Rosé DOC Millesimato Brut Raphael Dal Bo,,2022-2025,Italien,Venetien,null,"Pinot Noir, 
-                                Glera",11.00%,75cl,11.95
+ Glera",11.00%,75cl,11.95
 1671145197-6911,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/veneto-glera-cartizze-brut-la-gioiosa/p/7086218,Veneto Glera Cartizze Brut La Gioiosa,,,Italien,Venetien,,Glera,11.00%,75cl,19.95
 1671145200-6912,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/veneto-docg-glera-valdobbiadene-masottina/p/7071981,Veneto DOCG Glera Valdobbiadene Masottina,,,Italien,Venetien,,Glera,11.00%,75cl,11.95
 1671145202-6913,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/alkoholfrei/venetien-la-gioiosa-et-amorosa-00-alkoholfrei/p/7051652,Venetien La Gioiosa et Amorosa 0.0 alkoholfrei,,,Italien,Venetien,null,null,0.50%,75cl,6.95
 1671145206-6914,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/vaud-aoc-chardonnay-coup-de-l-etrier-brut-testuz/p/7051600,Vaud AOC Chardonnay Coup de l'Etrier brut Testuz,,,Schweiz,Waadt,null,Chardonnay,12.00%,75cl,14.8
 1671145213-6915,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/valdo-prosecco-di-valdobbiadene-docg/p/3713177,Valdo Prosecco di Valdobbiadene DOCG,,2022-2025,Italien,Venetien,null,Glera,11.00%,75cl,9.75
 1671145217-6917,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/valdo-garda-doc-spumante-brut/p/6341406,Valdo Garda DOC Spumante Brut,,2022-2025,Italien,Venetien,null,"Chardonnay, 
-                                Garganega",11.00%,75cl,6.5
+ Garganega",11.00%,75cl,6.5
 1671145220-6919,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/trevenezie-igt-vino-frizzante-rose-blu-secco/p/4260660,Trevenezie IGT Vino Frizzante Rosé Blu Secco,,2022-2025,Italien,Venetien,null,Assemblage de cépages,10.50%,120cl,11.7
 1671145222-6921,schaumwein,https://www.coop.ch/de/lebensmittel/getraenke/frucht-gemuesesaefte/fruchtsaefte/traubensaefte-sauser/trevenezie-igt-vino-frizzante-blu-secco-alkoholfrei/p/6767534,Trevenezie IGT Vino Frizzante Blu Secco alkoholfrei,,2022-2025,Italien,Venetien,null,Assemblage de cépages,0.50%,120cl,11.7
 1671145225-6923,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/trevenezie-igt-vino-frizzante-blu-secco/p/4021193,Trevenezie IGT Vino Frizzante Blu Secco,,2022-2025,Italien,Venetien,null,Assemblage de cépages,10.50%,120cl,8.7
@@ -195,21 +191,21 @@
 1671145234-6930,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/trentin-doc-glera-prosecco-millesimato-extra-dry-giordano/p/6996223,Trentin DOC Glera Prosecco Millesimato Extra Dry Giordano,,,Italien,Südtirol/Trentin/Friaul,null,Glera,11.00%,450cl,85
 1671145236-6931,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/schweiz/ticino-doc-spumante-charme-rose-brut/p/3713178,Ticino DOC Spumante Charme Rosé brut,,2022-2023,Schweiz,Tessin,,Merlot,12.00%,75cl,12.95
 1671145239-6933,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/sussex-henners-rose-nv/p/7075586,Sussex Henners Rosé NV,,,Grossbritannien,null,null,"Chardonnay, 
-                                Pinot Noir, 
-                                Pinot Meunier",12.00%,75cl,34.95
+ Pinot Noir, 
+ Pinot Meunier",12.00%,75cl,34.95
 1671145243-6935,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/sussex-henners-brut-nv/p/7075585,Sussex Henners Brut NV,,,Grossbritannien,null,null,"Chardonnay, 
-                                Pinot Noir, 
-                                Pinot Meunier",12.00%,75cl,29.95
+ Pinot Noir, 
+ Pinot Meunier",12.00%,75cl,29.95
 1671145246-6938,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/suisse-vdp-les-murettes-brut-maison-gilliard/p/6694078,Suisse VdP Les Murettes Brut Maison Gilliard,,,Schweiz,Wallis,null,Chasselas,12.70%,75cl,21.95
 1671145249-6940,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/stefany-spumante-prosecco-superiore-docg-conegliano-valdobbiadene-extra-dry/p/1018667001,Stefany Spumante Prosecco Superiore DOCG Conegliano - Valdobbiadene Extra Dry,2021,2022-2025,Italien,Venetien,Pizzolato,Glera,11.00%,75cl,17.5
 1671145252-6942,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/spumante-maestro-extra-dry-veneto-igt/p/4115585,Spumante Maestro Extra Dry Veneto IGT,,2022-2025,Italien,Venetien,null,Glera,11.50%,75cl,6.95
 1671145255-6944,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/frankreich/sekt-geldermann-premiers-brut/p/7076249,Sekt Geldermann Premiers brut,,,Deutschland,null,null,"Chardonnay, 
-                                Pinot Noir",12.00%,20cl,3.15
+ Pinot Noir",12.00%,20cl,3.15
 1671145258-6946,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/schweiz/schaffhausen-vdp-strada-vin-mousseux-extra-dry/p/6979974,Schaffhausen VdP Strada Vin Mousseux extra dry,,2022-2025,Schweiz,übrige Schweiz,,Pinot Noir,12.20%,75cl,9.95
 1671145261-6948,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/diverse/rotkaeppchen-sekt-halbtrocken/p/3548380,Rotkäppchen Sekt halbtrocken,,2022-2025,Deutschland,null,,Pinot Blanc,11.50%,75cl,5.5
 1671145264-6950,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/spanien/rose-seleccin-ravents-codornu-brut/p/3624691,Rosé Selección Raventós Codorníu brut,,2022-2025,Spanien,Katalonien,,Pinot Noir,12.00%,75cl,9.95
 1671145267-6952,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/rose-prosecco-doc-marca-oro-valdo-brut/p/7025866,Rosé Prosecco DOC Marca Oro Valdo brut,,,Italien,null,null,"Pinot Noir, 
-                                Glera",11.00%,20cl,3.95
+ Glera",11.00%,20cl,3.95
 1671145270-6954,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/rose-prosecco-doc-marca-oro-valdo-brut/p/6708772,Rosé Prosecco DOC Marca Oro Valdo brut,,2022-2023,Italien,Pinot Noir,null,null,11.00%,75cl,8.95
 1671145272-6956,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/rose-prosecco-doc-gioiosa-brut/p/6707499,Rosé Prosecco DOC Gioiosa brut,,2022-2023,Italien,Venetien,James Suckling: 90,Pinot Noir,11.00%,75cl,8.95
 1671145275-6958,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/spanien/roger-goulart-organic-reserva-cava-brut/p/1018136002,Roger Goulart Organic Reserva Cava Brut,2019,Spanien,Katalonien,,null,Macabeo,12.00%,75cl,16.5
@@ -227,7 +223,7 @@
 1671145307-6983,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/spanien/ravents-i-blanc-textures-de-pedra/p/1016966001,Raventós i Blanc Textures de Pedra,2015,2022-2031,Spanien,Katalonien,Raventós i Blanc,Xarel-lo,12.00%,75cl,36
 1671145310-6985,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/raphael-dal-bo-prosecco-superiore-docg-millesimato-extra-dry/p/1010136012,Raphael Dal Bo Prosecco Superiore DOCG Millesimato Extra Dry,2021,2022-2025,Italien,Venetien,Raphael dal Bo,Glera,11.00%,75cl,11.95
 1671145313-6987,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/italien/prosecco-superiore-docg-brut-1924-carpene-malvolti/p/6719802,Prosecco Superiore DOCG Brut 1924 Carpène Malvolti,,2022-2023,Italien,Venetien,,"diverse Sorten, 
-                                Glera",11.00%,75cl,17.5
+ Glera",11.00%,75cl,17.5
 1671145316-6989,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/prosecco-rose-015-millesimato-brut/p/1018566001,Prosecco Rosé 0.15 Millesimato Brut,2021,2022-2024,Italien,Venetien,De Stefani,Pinot Noir,11.50%,75cl,16.5
 1671145318-6991,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/prosecco-frizzante-doc-canti-75cl/p/6587640,Prosecco Frizzante DOC Canti 75CL,null,null,null,null,null,null,0.00%,75cl,5.95
 1671145321-6993,schaumwein,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/prosecco-doc-vigne-dogi/p/4922122,Prosecco DOC Vigne Dogi,,2022-2025,Italien,Venetien,,Glera,11.00%,75cl,6.95
