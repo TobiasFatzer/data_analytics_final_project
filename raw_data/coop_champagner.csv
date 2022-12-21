@@ -1,168 +1,168 @@
-﻿web-scraper-order,typ,href,wein_name_raw,jahrgang_raw,genussreife_raw,land_raw,region_raw,produzent_raw,rebsorte_raw,alkohol_raw,inhalt_raw,preis_chf_raw
-1671144153-6465,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-r-de-ruinart-brut/p/5965090,Champagne AOC R de Ruinart brut,2020-2021,Frankreich,Champagne,Chardonnay,null,Mehr über diesen Wein erfahren,12.00%,75cl,59.95
-1671144155-6467,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-prestige-diebolt-vallois/p/5680607,Champagne AOC Prestige Diebolt-Vallois,Frankreich,Champagne,null,Chardonnay,Vinum: 18,null,12.00%,75cl,44.95
-1671144157-6468,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-pommery-brut-royal-silver/p/7030249,Champagne AOC Pommery Brut Royal Silver,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+﻿web-scraper-order,typ,champagner-href,wein_name_raw,jahrgang_raw,genussreife_raw,land_raw,region_raw,produzent_raw,rebsorte_raw,alkohol_raw,inhalt_raw,preis_chf_raw
+1671144153-6465,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-r-de-ruinart-brut/p/5965090,Champagne AOC R de Ruinart brut,null,2020-2021,Frankreich,Champagne,null,Chardonnay,12.00%,75cl,59.95
+1671144155-6467,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-prestige-diebolt-vallois/p/5680607,Champagne AOC Prestige Diebolt-Vallois,null,null,Frankreich,Champagne,null,Chardonnay,12.00%,75cl,44.95
+1671144157-6468,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-pommery-brut-royal-silver/p/7030249,Champagne AOC Pommery Brut Royal Silver,null,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
                                 Pinot Noir, 
-                                Pinot Meunier",null,12.50%,75cl,49.95
-1671144159-6470,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-pommery-brut-royal/p/3170470,Champagne AOC Pommery Brut Royal,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
-                                Pinot Meunier",null,12.50%,75cl,31.95
-1671144161-6472,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-pommery-brut-royal/p/5930403,Champagne AOC Pommery Brut Royal,Frankreich,Champagne,null,Chardonnay,"Festlicher Apéro, Vorspeisen",null,12.50%,37.5cl,27.5
-1671144163-6473,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-nicolas-henri-brut/p/7066745,Champagne AOC Nicolas Henri Brut,2022-2025,Frankreich,Champagne,Chardonnay,null,null,12.00%,75cl,29.95
-1671144165-6475,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-nectar-imperial-moet-chandon/p/3423872,Champagne AOC Nectar Impérial Moët & Chandon,2020-2021,Frankreich,Champagne,null,"Chardonnay, 
+                                Pinot Meunier",12.50%,75cl,49.95
+1671144159-6470,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-pommery-brut-royal/p/3170470,Champagne AOC Pommery Brut Royal,null,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+                                Pinot Meunier",12.50%,75cl,31.95
+1671144161-6472,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-pommery-brut-royal/p/5930403,Champagne AOC Pommery Brut Royal,null,null,null,Champagne,null,Chardonnay,12.50%,37.5cl,27.5
+1671144163-6473,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-nicolas-henri-brut/p/7066745,Champagne AOC Nicolas Henri Brut,null,2022-2025,Frankreich,Champagne,null,Chardonnay,12.00%,75cl,29.95
+1671144165-6475,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-nectar-imperial-moet-chandon/p/3423872,Champagne AOC Nectar Impérial Moët & Chandon,null,2020-2021,Frankreich,Champagne,null,"Chardonnay, 
                                 Pinot Noir, 
-                                Pinot Meunier",null,12.00%,75cl,44.95
-1671144167-6477,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-mumm-grand-cordon-brut-etui/p/6637716,Champagne AOC Mumm Grand Cordon brut Etui,2022-2023,Frankreich,Champagne,Chardonnay,"Festlichem Apéro, Vorspeisen",null,12.50%,75cl,35.95
-1671144169-6479,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-mumm-grand-cordon-brut/p/6623043,Champagne AOC Mumm Grand Cordon Brut,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+                                Pinot Meunier",12.00%,75cl,44.95
+1671144167-6477,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-mumm-grand-cordon-brut-etui/p/6637716,Champagne AOC Mumm Grand Cordon brut Etui,null,2022-2023,Frankreich,Champagne,null,Chardonnay,12.50%,75cl,35.95
+1671144169-6479,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-mumm-grand-cordon-brut/p/6623043,Champagne AOC Mumm Grand Cordon Brut,null,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
                                 Pinot Noir, 
-                                Pinot Meunier",null,12.50%,75cl,35.95
+                                Pinot Meunier",12.50%,75cl,35.95
 1671144171-6480,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-moet-chandon-extra-brut-grand-vintage/p/1000558010,Champagne AOC Moët & Chandon extra brut Grand Vintage,2013,2022-2026,Frankreich,Champagne,Moët & Chandon,Chardonnay,12.50%,75cl,67.95
 1671144173-6481,champagner,https://www.coop.ch/de/weine/wein-sortiment/schaumweine/champagne-aoc-millesime-cuvee-speciale-nicolas-feuillatte/p/1012912008,Champagne AOC millésime Cuvée Spéciale Nicolas Feuillatte,2016,2022-2025,Frankreich,Champagne,Nicolas Feuillatte,Chardonnay,12.00%,75cl,26.95
-1671144175-6483,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-millesime-champagner-cuvee-speciale-nicolas-feuillatte-etui/p/5868246,Champagne AOC Millésimé Champagner Cuvée Spéciale Nicolas Feuillatte Etui,2020-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144175-6483,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-millesime-champagner-cuvee-speciale-nicolas-feuillatte-etui/p/5868246,Champagne AOC Millésimé Champagner Cuvée Spéciale Nicolas Feuillatte Etui,,2020-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir, 
                                 Pinot Meunier",null,12.00%,75cl,26.95
 1671144177-6484,champagner,https://www.coop.ch/de/weine/wein-sortiment/raritaeten/champagne-aoc-mesnillesime-guy-charlemagne/p/1014506001,Champagne AOC Mesnillésime Guy Charlemagne,2009,2022-2029,Frankreich,Champagne,Chardonnay,null,12.00%,75cl,79.95
 1671144179-6486,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-la-vigne-aux-gamins-grand-cru-thienot/p/7096033001,Champagne AOC La Vigne aux Gamins Grand Cru Thienot,2010,2024-2040,Frankreich,Champagne,Chardonnay,null,12.00%,75cl,119
-1671144181-6487,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-laurent-perrier-rose-brut/p/3170720,Champagne AOC Laurent-Perrier Rosé brut,2022-2025,Frankreich,Champagne,null,Wine Spectator: 92,null,12.00%,75cl,74.95
+1671144181-6487,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-laurent-perrier-rose-brut/p/3170720,Champagne AOC Laurent-Perrier Rosé brut,,2022-2025,Frankreich,Champagne,Wine Spectator: 92,null,12.00%,75cl,74.95
 1671144183-6489,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-la-grande-dame-2008-veuve-clicquot/p/6159050,Champagne AOC La Grande Dame 2008 Veuve Clicquot,2008,2022-2030,Frankreich,Champagne,Veuve Clicquot,Chardonnay,12.50%,75cl,199
-1671144185-6490,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-ice-imperial-rose-moet-chandon/p/6127878,Champagne AOC Ice Impérial Rosé Moët & Chandon,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144185-6490,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-ice-imperial-rose-moet-chandon/p/6127878,Champagne AOC Ice Impérial Rosé Moët & Chandon,,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir, 
                                 Pinot Meunier",null,12.00%,75cl,57.95
-1671144187-6491,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-ice-imperial-moet-chandon-mit-zwei-glaesern/p/6443342,Champagne AOC Ice Impérial Moët & Chandon mit zwei Gläsern,2020-2022,Frankreich,Champagne,null,"Chardonnay, 
+1671144187-6491,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-ice-imperial-moet-chandon-mit-zwei-glaesern/p/6443342,Champagne AOC Ice Impérial Moët & Chandon mit zwei Gläsern,,2020-2022,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir, 
                                 Pinot Meunier",null,12.00%,75cl,69.95
-1671144190-6493,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-ice-imperial-moet-chandon/p/5933167,Champagne AOC Ice Impérial Moët & Chandon,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144190-6493,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-ice-imperial-moet-chandon/p/5933167,Champagne AOC Ice Impérial Moët & Chandon,,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir, 
                                 Pinot Meunier",null,12.00%,75cl,49.95
-1671144192-6494,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-ice-charles-bertin/p/6610622,Champagne AOC Ice Charles Bertin,2022-2025,Frankreich,Champagne,Chardonnay,"Apéro, sommerlichen Vorspeisen, Asiatischen Gerichten",null,12.00%,75cl,23.5
+1671144192-6494,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-ice-charles-bertin/p/6610622,Champagne AOC Ice Charles Bertin,,2022-2025,Frankreich,Champagne,Chardonnay,null,12.00%,75cl,23.5
 1671144194-6495,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-grand-vintage-brut-charles-bertin/p/1013995003,Champagne AOC Grand Vintage Brut Charles Bertin,2016,2021-2025,Frankreich,Champagne,Charles Bertin,Chardonnay,12.00%,75cl,24.45
-1671144196-6496,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-grand-siecle-laurent-perrier/p/5653862,Champagne AOC Grand Siècle Laurent-Perrier,2022-2026,Frankreich,Champagne,null,"Chardonnay, 
+1671144196-6496,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-grand-siecle-laurent-perrier/p/5653862,Champagne AOC Grand Siècle Laurent-Perrier,,2022-2026,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir",null,12.00%,75cl,179
-1671144198-6498,champagner,https://www.coop.ch/de/weine/wein-sortiment/raritaeten/champagne-aoc-grand-cru-rose-billiot/p/5939610,Champagne AOC Grand Cru Rosé Billiot,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144198-6498,champagner,https://www.coop.ch/de/weine/wein-sortiment/raritaeten/champagne-aoc-grand-cru-rose-billiot/p/5939610,Champagne AOC Grand Cru Rosé Billiot,,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir",null,12.00%,75cl,36.5
-1671144200-6499,champagner,https://www.coop.ch/de/weine/wein-sortiment/raritaeten/champagne-aoc-grand-cru-ora-alba-vignier/p/6290916,Champagne AOC Grand Cru Ora Alba Vignier,2022-2025,Frankreich,Champagne,null,Chardonnay,null,12.00%,75cl,39.95
+1671144200-6499,champagner,https://www.coop.ch/de/weine/wein-sortiment/raritaeten/champagne-aoc-grand-cru-ora-alba-vignier/p/6290916,Champagne AOC Grand Cru Ora Alba Vignier,,2022-2025,Frankreich,Champagne,Chardonnay,null,12.00%,75cl,39.95
 1671144202-6500,champagner,https://www.coop.ch/de/weine/wein-sortiment/raritaeten/champagne-aoc-grand-cru-longues-verges-blanc-de-blancs/p/1014523001,Champagne AOC Grand Cru Longues Verges blanc de blancs,2012,2022-2030,Frankreich,Champagne,J. Vignier,Chardonnay,12.00%,75cl,69.95
-1671144204-6502,champagner,https://www.coop.ch/de/weine/wein-sortiment/raritaeten/champagne-aoc-grand-cru-cuvee-laetitia-billiot/p/5939562,Champagne AOC Grand Cru Cuvée Laetitia Billiot,2022-2023,Frankreich,Champagne,null,"Chardonnay, 
+1671144204-6502,champagner,https://www.coop.ch/de/weine/wein-sortiment/raritaeten/champagne-aoc-grand-cru-cuvee-laetitia-billiot/p/5939562,Champagne AOC Grand Cru Cuvée Laetitia Billiot,,2022-2023,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir",null,12.00%,75cl,49.95
 1671144206-6503,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-grand-cru-cuvee-essence-billiot/p/1013605001,Champagne AOC Grand Cru Cuvée Essence Billiot,2012,2022-2027,Frankreich,Champagne,H. Billiot et Fils,Pinot Noir,12.00%,75cl,149
 1671144208-6505,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-grand-cru-clos-cazals/p/1013381001,Champagne AOC Grand Cru Clos Cazals,2005,2022-2025,Frankreich,Champagne,Champagne Cazals,Chardonnay,12.00%,75cl,95
-1671144210-6506,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-grand-cru-camille-blanc-de-blancs-a-avize/p/5669253,Champagne AOC Grand Cru Camille Blanc de Blancs à Avize,2022-2025,Frankreich,Champagne,null,Chardonnay,null,12.50%,75cl,27.5
-1671144212-6508,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-grand-brut-perrier-jouet/p/5965087,Champagne AOC Grand brut Perrier-Jouet,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144210-6506,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-grand-cru-camille-blanc-de-blancs-a-avize/p/5669253,Champagne AOC Grand Cru Camille Blanc de Blancs à Avize,,2022-2025,Frankreich,Champagne,Chardonnay,null,12.50%,75cl,27.5
+1671144212-6508,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-grand-brut-perrier-jouet/p/5965087,Champagne AOC Grand brut Perrier-Jouet,,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir, 
                                 Pinot Meunier",null,12.00%,75cl,54.95
 1671144214-6509,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-fleur-de-passion-grand-cru-diebolt-vallois/p/1012797002,Champagne AOC Fleur de Passion Grand Cru Diebolt-Vallois,2007,2022-2027,Frankreich,Champagne,Diebolt-Vallois,Chardonnay,12.00%,75cl,129
-1671144216-6510,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-extra-brut-grand-cru-arnould-michel/p/5680493,Champagne AOC Extra brut Grand Cru Arnould Michel,2020-2022,Frankreich,Champagne,null,Pinot Noir,null,12.00%,75cl,36.5
+1671144216-6510,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-extra-brut-grand-cru-arnould-michel/p/5680493,Champagne AOC Extra brut Grand Cru Arnould Michel,,2020-2022,Frankreich,Champagne,Pinot Noir,null,12.00%,75cl,36.5
 1671144218-6512,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-dom-perignon-vintage/p/1000347012,Champagne AOC Dom Pérignon Vintage,2012,2022-2031,Frankreich,Champagne,Moët & Chandon,Pinot Noir,12.50%,75cl,220
-1671144220-6513,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-diebolt-vallois-brut/p/5680671,Champagne AOC Diebolt-Vallois brut,2022-2025,Frankreich,Champagne,null,Chardonnay,null,12.00%,75cl,32.95
+1671144220-6513,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-diebolt-vallois-brut/p/5680671,Champagne AOC Diebolt-Vallois brut,,2022-2025,Frankreich,Champagne,Chardonnay,null,12.00%,75cl,32.95
 1671144222-6515,champagner,https://www.coop.ch/de/weine/wein-sortiment/raritaeten/champagne-aoc-deux-terres-blanc-de-blancs/p/1015588001,Champagne AOC Deux Terres blanc de blancs,2008,2022-2030,Frankreich,Champagne,J. Vignier,Chardonnay,12.50%,75cl,44.95
-1671144225-6516,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-cuvee-reservee-brut-charles-bertin/p/6620717,Champagne AOC Cuvée Réservée brut Charles Bertin,2022-2023,Frankreich,Champagne,null,"Apéro, Alpkäse, Fisch, Geflügel",null,12.00%,75cl,19.95
+1671144225-6516,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-cuvee-reservee-brut-charles-bertin/p/6620717,Champagne AOC Cuvée Réservée brut Charles Bertin,,2022-2023,Frankreich,Champagne,"Apéro, Alpkäse, Fisch, Geflügel",null,12.00%,75cl,19.95
 1671144227-6518,champagner,https://www.coop.ch/de/weine/wein-sortiment/raritaeten/champagne-aoc-cuvee-coulmets-guy-charlemagne/p/1014505001,Champagne AOC Cuvée Coulmets Guy Charlemagne,2013,2022-2027,Frankreich,Champagne,Chardonnay,null,12.00%,75cl,42.5
 1671144229-6519,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-comtes-de-champagne-millesime-taittinger/p/1012807007,Champagne AOC Comtes de Champagne millésime Taittinger,2011,2023-2032,Frankreich,Champagne,Taittinger,Chardonnay,12.00%,75cl,159
 1671144231-6521,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-clos-des-goisses-grand-cru-extra-brut-philiponnat-magnum/p/7099457001,Champagne AOC Clos des Goisses Grand Cru Extra brut Philiponnat MAGNUM,2013,2035-2055,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir",null,12.00%,150cl,555
 1671144233-6522,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-clos-des-goisses-grand-cru-extra-brut-philiponnat/p/7099460001,Champagne AOC Clos des Goisses Grand Cru Extra brut Philiponnat,2013,2030-2045,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir",null,12.00%,75cl,249
-1671144236-6524,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-charles-bertin-rose-brut/p/3170062,Champagne AOC Charles Bertin Rosé brut,2022-2025,Frankreich,Champagne,Chardonnay,"Vorspeisen, leichte Mahlzeiten",null,12.00%,75cl,21.95
-1671144238-6525,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-charles-bertin-rose-brut/p/3388524,Champagne AOC Charles Bertin Rosé brut,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144236-6524,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-charles-bertin-rose-brut/p/3170062,Champagne AOC Charles Bertin Rosé brut,null,2022-2025,Frankreich,Champagne,"Vorspeisen, leichte Mahlzeiten",null,12.00%,75cl,21.95
+1671144238-6525,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-charles-bertin-rose-brut/p/3388524,Champagne AOC Charles Bertin Rosé brut,null,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.00%,37.5cl,13.95
-1671144241-6527,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-charles-bertin-brut/p/3170451,"Champagne AOC Charles Bertin, brut",2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144241-6527,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-charles-bertin-brut/p/3170451,"Champagne AOC Charles Bertin, brut",null,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.00%,75cl,16.95
-1671144244-6528,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-canard-duchene-incontournable-reserve-brut/p/4890881,Champagne AOC Canard-Duchêne Incontournable Réserve Brut,2022-2025,Frankreich,Champagne,Chardonnay,"Aperitif, Vorspeisen",null,12.00%,75cl,23.95
-1671144246-6530,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-canard-duchene-cuvee-incontournable-rose/p/6419178,Champagne AOC Canard-Duchêne Cuvée incontournable Rosé,2022-2023,Frankreich,Champagne,null,"Chardonnay, 
+1671144244-6528,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-canard-duchene-incontournable-reserve-brut/p/4890881,Champagne AOC Canard-Duchêne Incontournable Réserve Brut,null,2022-2025,Frankreich,Champagne,"Aperitif, Vorspeisen",null,12.00%,75cl,23.95
+1671144246-6530,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-canard-duchene-cuvee-incontournable-rose/p/6419178,Champagne AOC Canard-Duchêne Cuvée incontournable Rosé,null,2022-2023,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir, 
                                 Pinot Meunier",null,12.00%,75cl,29.95
-1671144248-6531,champagner,https://www.coop.ch/de/weine/wein-sortiment/raritaeten/champagne-aoc-brut-premier-louis-roederer/p/6276303,Champagne AOC brut Premier Louis Roederer,2022-2023,Frankreich,Champagne,null,"Chardonnay, 
+1671144248-6531,champagner,https://www.coop.ch/de/weine/wein-sortiment/raritaeten/champagne-aoc-brut-premier-louis-roederer/p/6276303,Champagne AOC brut Premier Louis Roederer,null,2022-2023,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir, 
                                 Pinot Meunier",null,12.00%,75cl,49.95
-1671144251-6532,champagner,https://www.coop.ch/de/weine/wein-sortiment/raritaeten/champagne-aoc-brut-nature-guy-charlemagne/p/6308428,Champagne AOC brut nature Guy Charlemagne,2022-2025,Frankreich,Champagne,Chardonnay,Antonio Galloni: 90,null,12.00%,75cl,36.95
-1671144253-6534,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-brut-imperial-moet-chandon-metal-box/p/7014493,Champagne AOC Brut Impérial Moët & Chandon Metal Box,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144251-6532,champagner,https://www.coop.ch/de/weine/wein-sortiment/raritaeten/champagne-aoc-brut-nature-guy-charlemagne/p/6308428,Champagne AOC brut nature Guy Charlemagne,null,2022-2025,Frankreich,Champagne,Antonio Galloni: 90,null,12.00%,75cl,36.95
+1671144253-6534,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-brut-imperial-moet-chandon-metal-box/p/7014493,Champagne AOC Brut Impérial Moët & Chandon Metal Box,null,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.00%,75cl,46.95
-1671144255-6535,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-brut-imperial-moet-chandon-etui/p/3854396,Champagne AOC Brut Impérial Moët & Chandon Etui,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144255-6535,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-brut-imperial-moet-chandon-etui/p/3854396,Champagne AOC Brut Impérial Moët & Chandon Etui,null,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.00%,75cl,37.95
-1671144258-6537,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-brut-imperial-moet-chandon/p/3170450,Champagne AOC Brut Impérial Moët & Chandon,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144258-6537,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-brut-imperial-moet-chandon/p/3170450,Champagne AOC Brut Impérial Moët & Chandon,null,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.00%,75cl,37.95
-1671144260-6538,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-brut-imperial-moet-chandon/p/3170696,Champagne AOC Brut Impérial Moët & Chandon,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144260-6538,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-brut-imperial-moet-chandon/p/3170696,Champagne AOC Brut Impérial Moët & Chandon,null,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.00%,150cl,105
-1671144262-6540,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-brut-imperial-moet-chandon/p/3170670,Champagne AOC Brut Impérial Moët & Chandon,2022-2023,Frankreich,Champagne,null,"Chardonnay, 
+1671144262-6540,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-brut-imperial-moet-chandon/p/3170670,Champagne AOC Brut Impérial Moët & Chandon,null,2022-2023,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.00%,37.5cl,24.75
-1671144265-6541,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-brut-imperial-moet-chandon/p/5840993,Champagne AOC Brut Impérial Moët & Chandon,Frankreich,Champagne,null,Pinot Noir,"Apéro zu Zweit, Vorspeisen",null,12.00%,20cl,15.5
-1671144267-6543,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-brut-grande-cuvee-1er-cru-arlaux/p/6024028,Champagne AOC Brut Grande Cuvée 1er Cru Arlaux,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144265-6541,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-brut-imperial-moet-chandon/p/5840993,Champagne AOC Brut Impérial Moët & Chandon,null,,Frankreich,Champagne,"Apéro zu Zweit, Vorspeisen",null,12.00%,20cl,15.5
+1671144267-6543,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-brut-grande-cuvee-1er-cru-arlaux/p/6024028,Champagne AOC Brut Grande Cuvée 1er Cru Arlaux,null,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir",null,12.00%,75cl,34.95
-1671144269-6544,champagner,https://www.coop.ch/de/weine/wein-sortiment/raritaeten/champagne-aoc-billiot-reserve-grand-cru/p/5680601,Champagne AOC Billiot Réserve grand cru,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144269-6544,champagner,https://www.coop.ch/de/weine/wein-sortiment/raritaeten/champagne-aoc-billiot-reserve-grand-cru/p/5680601,Champagne AOC Billiot Réserve grand cru,null,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir",null,12.50%,75cl,34.95
 1671144272-6546,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-annonciade-grand-cru-paul-bara/p/1013904001,Champagne AOC Annonciade Grand Cru Paul Bara,2005,2022-2025,Frankreich,Champagne,Paul Bara,Pinot Noir,12.50%,75cl,130
-1671144274-6547,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-1er-cru-brut-charles-bertin/p/4147204,Champagne AOC 1er Cru Brut Charles Bertin,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144274-6547,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-1er-cru-brut-charles-bertin/p/4147204,Champagne AOC 1er Cru Brut Charles Bertin,null,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.00%,75cl,21.95
 1671144276-6549,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-1er-cru-aoc-cuvee-fleuron-brut-pierre-gimmonet-fils/p/1012799005,Champagne 1er Cru AOC Cuvée Fleuron Brut Pierre Gimmonet&Fils,2016,2022-2024,Frankreich,Champagne,Pierre Gimonnet et Fils,Chardonnay,12.00%,75cl,44.95
 1671144278-6550,champagner,https://www.coop.ch/de/weine/wein-sortiment/raritaeten/champagne-1er-cru-aoc-cuvee-fleuron-brut-pierre-gimmonet-fils/p/1012799004,Champagne 1er Cru AOC Cuvée Fleuron Brut Pierre Gimmonet&Fils,2014,2022-2024,Frankreich,Champagne,Pierre Gimonnet et Fils,Chardonnay,12.00%,75cl,44.95
-1671144281-6552,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/alfred-rothschild-champagne-brut/p/3170447,Alfred Rothschild Champagne brut,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144281-6552,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/alfred-rothschild-champagne-brut/p/3170447,Alfred Rothschild Champagne brut,null,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.50%,75cl,23.95
-1671144375-6561,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/vin-mousseux-blanc-de-blancs-brut-dargent/p/5831596,Vin Mousseux Blanc de Blancs Brut Dargent,2022-2025,Frankreich,null,null,Chardonnay,null,12.00%,75cl,7.95
-1671144377-6562,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/valais-aoc-chardonnay-reserve-brut-jacques-germanier/p/7028009,Valais AOC Chardonnay Réserve Brut Jacques Germanier,Schweiz,Wallis,null,Chardonnay,null,null,13.00%,37.5cl,9.7
-1671144379-6563,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/taittinger-champagne-reserve-brut-aoc/p/3170172,Taittinger Champagne Réserve brut AOC,2022-2024,Frankreich,Champagne,null,"Chardonnay, 
+1671144375-6561,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/vin-mousseux-blanc-de-blancs-brut-dargent/p/5831596,Vin Mousseux Blanc de Blancs Brut Dargent,null,2022-2025,Frankreich,null,Chardonnay,null,12.00%,75cl,7.95
+1671144377-6562,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/valais-aoc-chardonnay-reserve-brut-jacques-germanier/p/7028009,Valais AOC Chardonnay Réserve Brut Jacques Germanier,null,null,Schweiz,Wallis,null,null,13.00%,37.5cl,9.7
+1671144379-6563,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/taittinger-champagne-reserve-brut-aoc/p/3170172,Taittinger Champagne Réserve brut AOC,null,2022-2024,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir, 
                                 Pinot Meunier",null,12.00%,75cl,36.95
-1671144381-6564,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/prix-garantie-champagne-veuve-marjolaine/p/6713013,Prix Garantie Champagne Veuve Marjolaine,2022-2023,Frankreich,Champagne,null,"Apérohäppchen, Sushi, leichten asiatischen Gerichte",null,12.50%,75cl,19.95
+1671144381-6564,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/prix-garantie-champagne-veuve-marjolaine/p/6713013,Prix Garantie Champagne Veuve Marjolaine,null,2022-2023,Frankreich,Champagne,"Apérohäppchen, Sushi, leichten asiatischen Gerichte",null,12.50%,75cl,19.95
 1671144383-6565,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/pommery-brut-champagne-cuvee-louise-etui/p/1016773001,Pommery Brut Champagne Cuvée Louise Etui,2004,2022-2026,Frankreich,Champagne,Pommery,Chardonnay,12.50%,75cl,179
-1671144385-6566,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/nicolas-feuillatte-champagne-brut/p/3170388,"Nicolas Feuillatte Champagne, brut",2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144385-6566,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/nicolas-feuillatte-champagne-brut/p/3170388,"Nicolas Feuillatte Champagne, brut",null,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir, 
                                 Pinot Meunier",null,12.00%,75cl,21.5
-1671144387-6567,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/les-premiers-brut-geldermann/p/7076247,Les Premiers Brut Geldermann,Deutschland,"Chardonnay, 
-                                Pinot Noir",null,null,null,null,12.00%,75cl,7.95
-1671144389-6568,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/laurent-perrier-champagne-brut-etui/p/5844041,Laurent-Perrier Champagne brut Etui,2020-2021,Frankreich,Champagne,Chardonnay,"Festlichem Apéro, Vorspeisen",null,12.50%,75cl,36.95
-1671144391-6569,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/laurent-perrier-champagne-brut/p/3170708,Laurent-Perrier Champagne brut,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144387-6567,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/les-premiers-brut-geldermann/p/7076247,Les Premiers Brut Geldermann,null,null,Deutschland,null,"Chardonnay, 
+                                Pinot Noir",null,12.00%,75cl,7.95
+1671144389-6568,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/laurent-perrier-champagne-brut-etui/p/5844041,Laurent-Perrier Champagne brut Etui,null,2020-2021,Frankreich,Champagne,"Festlichem Apéro, Vorspeisen",null,12.50%,75cl,36.95
+1671144391-6569,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/laurent-perrier-champagne-brut/p/3170708,Laurent-Perrier Champagne brut,null,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.00%,75cl,36.95
-1671144393-6570,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/laurent-perrier-champagne-brut/p/3508790,Laurent-Perrier Champagne brut,Frankreich,Champagne,null,null,null,null,12.10%,37.5cl,29.95
-1671144395-6571,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/cremant-de-loire-aoc-chenin-blanc-chateau-de-mauny/p/7040190,Crémant de Loire AOC Chenin Blanc Château de Mauny,2023-2030,Frankreich,Loire,null,Chenin Blanc,null,12.50%,75cl,12.95
-1671144397-6572,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/coop-fine-food-champagne-aoc-blanc-de-noirs-boizel/p/6802604,Coop Fine Food Champagne AOC Blanc de Noirs Boizel,2022-2025,Frankreich,Champagne,Pinot Noir,"Apéro, geschmortem Geflügel, Fischgerichten mit Sauce",null,12.50%,75cl,35.95
-1671144399-6573,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/charles-bertin-champagne-demi-sec/p/3170452,Charles Bertin Champagne demi-sec,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144393-6570,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/laurent-perrier-champagne-brut/p/3508790,Laurent-Perrier Champagne brut,null,,Frankreich,Champagne,null,null,12.10%,37.5cl,29.95
+1671144395-6571,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/cremant-de-loire-aoc-chenin-blanc-chateau-de-mauny/p/7040190,Crémant de Loire AOC Chenin Blanc Château de Mauny,null,2023-2030,Frankreich,Loire,Chenin Blanc,null,12.50%,75cl,12.95
+1671144397-6572,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/coop-fine-food-champagne-aoc-blanc-de-noirs-boizel/p/6802604,Coop Fine Food Champagne AOC Blanc de Noirs Boizel,null,2022-2025,Frankreich,Champagne,"Apéro, geschmortem Geflügel, Fischgerichten mit Sauce",null,12.50%,75cl,35.95
+1671144399-6573,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/charles-bertin-champagne-demi-sec/p/3170452,Charles Bertin Champagne demi-sec,null,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.00%,75cl,16.95
-1671144401-6574,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/charles-bertin-champagne-demi-sec/p/3170253,Charles Bertin Champagne demi-sec,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144401-6574,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/charles-bertin-champagne-demi-sec/p/3170253,Charles Bertin Champagne demi-sec,null,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.00%,37.5cl,11.85
-1671144403-6575,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/charles-bertin-champagne-brut/p/3170252,Charles Bertin Champagne brut,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144403-6575,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/charles-bertin-champagne-brut/p/3170252,Charles Bertin Champagne brut,null,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.00%,37.5cl,11.85
-1671144405-6576,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/charles-bertin-champagne-brut/p/3414646,Charles Bertin Champagne brut,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144405-6576,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/charles-bertin-champagne-brut/p/3414646,Charles Bertin Champagne brut,null,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.00%,150cl,54.95
-1671144407-6577,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/charles-bertin-champagne-brut/p/6459291,Charles Bertin Champagne brut,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144407-6577,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/charles-bertin-champagne-brut/p/6459291,Charles Bertin Champagne brut,null,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.50%,20cl,9.95
-1671144409-6578,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/chandon-garden-spritz/p/6989223,Chandon Garden Spritz,Argentinien,Mendoza,null,Chardonnay,null,null,11.50%,75cl,24.95
-1671144412-6579,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-tradition-premier-cru-brut-gaston-chiquet/p/6845272,Champagne Tradition Premier Cru Brut Gaston Chiquet,2022-2031,Frankreich,Champagne,null,"Chardonnay, 
+1671144409-6578,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/chandon-garden-spritz/p/6989223,Chandon Garden Spritz,,,Argentinien,Mendoza,null,null,11.50%,75cl,24.95
+1671144412-6579,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-tradition-premier-cru-brut-gaston-chiquet/p/6845272,Champagne Tradition Premier Cru Brut Gaston Chiquet,,2022-2031,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir, 
                                 Pinot Meunier",null,12.50%,37.5cl,27
-1671144414-6580,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-legras-blanc-de-blancs/p/6845339,Champagne Legras Blanc de Blancs,2022-2031,Frankreich,Champagne,null,Chardonnay,null,12.50%,75cl,39.8
+1671144414-6580,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-legras-blanc-de-blancs/p/6845339,Champagne Legras Blanc de Blancs,,2022-2031,Frankreich,Champagne,Chardonnay,null,12.50%,75cl,39.8
 1671144416-6581,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-lanson-aoc-chardonnay-le-clos-lanson-extra-brut/p/7099482001,Champagne Lanson AOC Chardonnay Le Clos Lanson Extra Brut,2009,2024-2034,Frankreich,Champagne,Lanson,Chardonnay,12.50%,75cl,175
-1671144418-6582,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-lanson-aoc-brut-limited-edition-lanson/p/6987226,Champagne Lanson AOC Brut Limited Edition Lanson,Frankreich,Champagne,null,Chardonnay,null,null,12.50%,75cl,27
-1671144420-6583,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-lanson-aoc-black-label-brut/p/3170597,Champagne Lanson AOC Black Label brut,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144418-6582,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-lanson-aoc-brut-limited-edition-lanson/p/6987226,Champagne Lanson AOC Brut Limited Edition Lanson,,,Frankreich,Champagne,null,null,12.50%,75cl,27
+1671144420-6583,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-lanson-aoc-black-label-brut/p/3170597,Champagne Lanson AOC Black Label brut,,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir",null,12.00%,75cl,34.95
-1671144422-6584,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-gaston-chiquet-tradition-premier-cru/p/6845338,Champagne Gaston Chiquet Tradition Premier Cru,2022-2031,Frankreich,Champagne,null,"Chardonnay, 
+1671144422-6584,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-gaston-chiquet-tradition-premier-cru/p/6845338,Champagne Gaston Chiquet Tradition Premier Cru,,2022-2031,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir, 
                                 Pinot Meunier",null,12.50%,75cl,49
-1671144424-6585,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-veuve-clicquot-yellow-label-shopping-bag/p/5805525,Champagne AOC Veuve Clicquot Yellow Label Shopping Bag,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144424-6585,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-veuve-clicquot-yellow-label-shopping-bag/p/5805525,Champagne AOC Veuve Clicquot Yellow Label Shopping Bag,,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.50%,75cl,54.5
-1671144426-6587,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-veuve-clicquot-yellow-label-magnum/p/3170629,Champagne AOC Veuve Clicquot Yellow Label Magnum,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144426-6587,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-veuve-clicquot-yellow-label-magnum/p/3170629,Champagne AOC Veuve Clicquot Yellow Label Magnum,,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir, 
                                 Pinot Meunier",null,12.00%,150cl,125
-1671144428-6588,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-veuve-clicquot-yellow-label-etui/p/3854394,Champagne AOC Veuve Clicquot Yellow Label Etui,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144428-6588,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-veuve-clicquot-yellow-label-etui/p/3854394,Champagne AOC Veuve Clicquot Yellow Label Etui,,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.00%,75cl,46.5
-1671144430-6590,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-veuve-clicquot-yellow-label/p/3170469,Champagne AOC Veuve Clicquot Yellow Label,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144430-6590,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-veuve-clicquot-yellow-label/p/3170469,Champagne AOC Veuve Clicquot Yellow Label,,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.00%,75cl,46.5
-1671144432-6592,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-veuve-clicquot-yellow-label/p/3170601,Champagne AOC Veuve Clicquot Yellow Label,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144432-6592,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-veuve-clicquot-yellow-label/p/3170601,Champagne AOC Veuve Clicquot Yellow Label,,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.00%,37.5cl,37.5
-1671144434-6593,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-veuve-clicquot-rose-brut-etui/p/4259615,Champagne AOC Veuve Clicquot Rosé brut Etui,2022-2025,Frankreich,Champagne,null,"Festlichem Apéro, Vorspeisen",null,12.00%,75cl,59.5
-1671144436-6595,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-veuve-clicquot-rose-brut/p/4407226,Champagne AOC Veuve Clicquot Rosé brut,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144434-6593,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-veuve-clicquot-rose-brut-etui/p/4259615,Champagne AOC Veuve Clicquot Rosé brut Etui,,2022-2025,Frankreich,Champagne,"Festlichem Apéro, Vorspeisen",null,12.00%,75cl,59.5
+1671144436-6595,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-veuve-clicquot-rose-brut/p/4407226,Champagne AOC Veuve Clicquot Rosé brut,,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.00%,75cl,59.5
-1671144438-6597,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-veuve-clicquot-brut-rose-ice-jacket/p/4909015,Champagne AOC Veuve Clicquot brut Rosé Ice Jacket,2021-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144438-6597,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-veuve-clicquot-brut-rose-ice-jacket/p/4909015,Champagne AOC Veuve Clicquot brut Rosé Ice Jacket,,2021-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.50%,75cl,69.5
-1671144440-6599,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-variance-bonnaire/p/5679778,Champagne AOC Variance Bonnaire,2022-2025,Frankreich,Champagne,null,Chardonnay,null,12.00%,75cl,34.95
-1671144442-6600,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-special-cuvee-bollinger/p/5965183,Champagne AOC Special Cuvée Bollinger,2022-2025,Frankreich,Champagne,Chardonnay,null,null,12.50%,75cl,62
+1671144440-6599,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-variance-bonnaire/p/5679778,Champagne AOC Variance Bonnaire,,2022-2025,Frankreich,Champagne,Chardonnay,null,12.00%,75cl,34.95
+1671144442-6600,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-special-cuvee-bollinger/p/5965183,Champagne AOC Special Cuvée Bollinger,,2022-2025,Frankreich,Champagne,null,null,12.50%,75cl,62
 1671144445-6602,champagner,https://www.coop.ch/de/weine/wein-sortiment/raritaeten/champagne-aoc-silexus-sezannensis-blanc-de-blancs/p/1015589001,Champagne AOC Silexus Sézannensis blanc de blancs,2011,2022-2026,Frankreich,Champagne,J. Vignier,Chardonnay,12.50%,75cl,39.95
-1671144447-6604,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-rose-brut-pommery-etui/p/6391743,Champagne AOC Rosé brut Pommery Etui,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144447-6604,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-rose-brut-pommery-etui/p/6391743,Champagne AOC Rosé brut Pommery Etui,,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir, 
                                 Pinot Meunier",null,12.00%,75cl,42.5
-1671144448-6606,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-rose-brut-imperial-moet-chandon/p/3170338,Champagne AOC Rosé Brut Impérial Moët & Chandon,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144448-6606,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-rose-brut-imperial-moet-chandon/p/3170338,Champagne AOC Rosé Brut Impérial Moët & Chandon,,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Meunier",null,12.00%,75cl,52.95
-1671144451-6608,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-rose-brut-imperial-moet-chandon/p/5733506,Champagne AOC Rosé Brut Impérial Moët & Chandon,2022-2025,Frankreich,Champagne,null,"Chardonnay, 
+1671144451-6608,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-rose-brut-imperial-moet-chandon/p/5733506,Champagne AOC Rosé Brut Impérial Moët & Chandon,,2022-2025,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir, 
                                 Pinot Meunier",null,12.50%,37.5cl,37.5
-1671144453-6610,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-rose-brut-alfred-rothschild/p/6786576,Champagne AOC Rosé Brut Alfred Rothschild,Frankreich,Champagne,null,Chardonnay,null,null,12.50%,75cl,26.2
-1671144455-6611,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-reserve-brut-grand-cru-arnould-michel/p/5680495,Champagne AOC Réserve brut Grand Cru Arnould Michel,2020-2022,Frankreich,Champagne,null,"Chardonnay, 
+1671144453-6610,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-rose-brut-alfred-rothschild/p/6786576,Champagne AOC Rosé Brut Alfred Rothschild,,,Frankreich,Champagne,null,null,12.50%,75cl,26.2
+1671144455-6611,champagner,https://www.coop.ch/de/weine/wein-sortiment/champagner/champagne-aoc-reserve-brut-grand-cru-arnould-michel/p/5680495,Champagne AOC Réserve brut Grand Cru Arnould Michel,,2020-2022,Frankreich,Champagne,"Chardonnay, 
                                 Pinot Noir",null,12.00%,75cl,31.5
