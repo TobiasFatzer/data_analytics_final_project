@@ -6,7 +6,7 @@
 
 ## Final Project
 
-### Projects Contributors:
+### Project Contributors:
 
 ### Gregory Hill        hillgre1@students.zhaw.ch
 
