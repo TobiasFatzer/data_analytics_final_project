@@ -30,6 +30,6 @@
 ### Additional points, if the following criteria are met (max 5 points):
 - [ ] Creativity of implementation (creative is anything not specified in the lessons and exercises).
 - [ ] Use of a MySQL database for data storage and SQL-queries from within Python.
-- [ ] Integration and visualization of geographical data.
+- [x] Integration and visualization of geographical data.
 - [ ] Use of a statistical test for the analysis of contingency tables or analysis of variance (ANOVA).
 - [ ] Use of k-means clustering in addition to the regression or classification model.
