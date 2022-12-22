@@ -1,0 +1,1 @@
+following columns are definitely not null: typ wein_name land alkohol inhalt_cl	anzahl_fl jahrgang prime_start	prime_end preis_chf preis_cl lat	lon
