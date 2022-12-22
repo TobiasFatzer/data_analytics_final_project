@@ -25,7 +25,7 @@ rot,Amarone della Valpolicella Classico DOCG Zeni,Italien,Venetien,Cantina Zeni,
 rot,Amarone della Valpolicella Classico DOCG Zeni,Italien,Venetien,Cantina Zeni,Molinara,15.0,150.0,1,2019.0,2023.0,2026.0,47.5,0.32,42.6384261,12.674297
 rot,Amarone della Valpolicella Classico DOC Campolongo di Torbe Masi,Italien,Venetien,Masi,Molinara,16.0,75.0,1,2012.0,2023.0,2035.0,129.0,1.72,42.6384261,12.674297
 rot,Amarone della Valpolicella Bosan Cesari DOC,Italien,Venetien,Gerardo Cesari,Molinara,15.5,75.0,1,2013.0,2021.0,2022.0,49.95,0.67,42.6384261,12.674297
-rot,Amanet Vranac Winery Aleksic,,,,,15.0,75.0,1,2019.0,2022.0,2026.0,14.6,0.19,46.3144754,11.0480288
+rot,Amanet Vranac Winery Aleksic,,,,,15.0,75.0,1,2019.0,2022.0,2026.0,14.6,0.19,,
 rot,Amancaya Gran Reserva Bodegas Caro Mendoza,Argentinien,Mendoza,Domaines Barons de Rothschild,Cabernet Sauvignon,14.0,75.0,1,2017.0,2022.0,2023.0,19.95,0.27,-34.9964963,-64.9672817
 rot,Alvaro Malbec Reserva Mendoza,Argentinien,Mendoza,,Malbec,14.5,75.0,1,2021.0,2020.0,2023.0,16.5,0.22,-34.9964963,-64.9672817
 rot,Alvaro Malbec Reserva Mendoza,Argentinien,Mendoza,,Malbec,14.5,75.0,1,2019.0,2022.0,2024.0,16.5,0.22,-34.9964963,-64.9672817
@@ -170,7 +170,7 @@ rot,Blaufränkisch Edition Peter Keller Rennersistas,Österreich,Burgenland,Blau
 rot,Blaufränkisch Burgenland DAC Edition Peter Keller Burgenland Weingut Strehn,Österreich,Burgenland,Blaufränkisch,,13.0,75.0,1,2017.0,2022.0,2025.0,24.95,0.33,47.59397,14.12456
 rot,Blauburgunder Landwein,Deutschland,Baden,,Pinot Noir,13.0,50.0,1,,2022.0,2025.0,3.95,0.08,51.1638175,10.4478313
 rot,Bio Yecla DO Campo Arriba,Spanien,Murcia,Bodega Señorio de Barahonda,Syrah,14.5,75.0,1,2020.0,2022.0,2026.0,9.95,0.13,39.3260685,-4.8379791
-rot,Bio Terra Alpina Vino Rosso Lageder,,,,"Grenache,                  Merlot,                Carignan,                   Lagrein",13.0,75.0,1,2021.0,2023.0,2025.0,14.95,0.2,46.3144754,11.0480288
+rot,Bio Terra Alpina Vino Rosso Lageder,,,,"Grenache,                  Merlot,                Carignan,                   Lagrein",13.0,75.0,1,2021.0,2023.0,2025.0,14.95,0.2,,
 rot,Bio Puglia IGT Susumaniello Luminante,Italien,Apulien,Giordano,,14.0,75.0,1,2021.0,2022.0,2025.0,13.95,0.19,42.6384261,12.674297
 rot,Bio Les Alpilles IGP Moulin de Lauzières Petit Verdot Grande Réserve,Frankreich,Provence,Domaine des Lauzières,Petit Verdot,12.5,75.0,1,2013.0,2022.0,2026.0,19.95,0.27,46.603354,1.8883335
 rot,Bio Jumilla DOP Santa Augusta,Spanien,Murcia,Monastrell,,12.5,75.0,1,2020.0,2022.0,2024.0,3.95,0.05,39.3260685,-4.8379791
@@ -191,7 +191,7 @@ rot,Beaujolais-Villages Nouveau G. Duboeuf AOC,Frankreich,Beaujolais,Georges Dub
 rot,Beaujolais-Villages Nouveau G. Duboeuf AOC,Frankreich,Beaujolais,Georges Duboeuf,Gamay,12.0,75.0,1,2021.0,2022.0,2025.0,8.5,0.11,46.603354,1.8883335
 rot,Beaujolais-Villages AOP La Ferronnière,Frankreich,Beaujolais,Gamay,,12.5,75.0,1,2020.0,2022.0,2025.0,5.95,0.08,46.603354,1.8883335
 rot,Beaujolais AOC Nouveau Cuvée Novalis,Frankreich,Beaujolais,Gamay,,13.0,75.0,1,2022.0,2023.0,2026.0,5.95,0.08,46.603354,1.8883335
-rot,Batroun MO Cuvée Altitudes red Ixsir,,,,"Caladoc,           Cabernet Sauvignon,       Tempranillo,   Syrah",14.0,75.0,1,2018.0,2022.0,2028.0,22.0,0.29,46.3144754,11.0480288
+rot,Batroun MO Cuvée Altitudes red Ixsir,,,,"Caladoc,           Cabernet Sauvignon,       Tempranillo,   Syrah",14.0,75.0,1,2018.0,2022.0,2028.0,22.0,0.29,,
 rot,Basel-Landschaft AOC Primus B Pinot Noir,Schweiz,Basel/Aargau,Buess Weinbau,Pinot Noir,13.0,70.0,1,2020.0,2022.0,2023.0,11.5,0.16,46.7985624,8.2319736
 rot,Château Belgrave Haut-Médoc AC 5ème Cru Classé,Frankreich,,Château Belgrave,Cabernet Sauvignon,14.0,75.0,1,2019.0,2024.0,2032.0,39.95,0.53,46.603354,1.8883335
 rot,Château Beau-Séjour Bécot Saint-Emilion 1er Grand Cru Classé B AOC 6x  75cl,Frankreich,,Château Beauséjour Bécot,Cabernet Franc,13.5,75.0,6,2021.0,2028.0,2038.0,354.0,0.79,46.603354,1.8883335
@@ -609,7 +609,7 @@ rot,Cuvée Rouge l'Hospitalet G. Bertrand Pays d'Oc IGP,Frankreich,Languedoc-Rou
 rot,Cuvée Rouge l'Hospitalet G. Bertrand Pays d'Oc IGP,Frankreich,Languedoc-Roussillon,Gérard Bertrand,Syrah,13.5,75.0,1,2020.0,2021.0,2025.0,13.95,0.19,46.603354,1.8883335
 rot,Crozes-Hermitage AOC Les Moniers M. Chapoutier,Frankreich,Côtes du Rhône,M. Chapoutier,Syrah,13.0,75.0,1,2019.0,2022.0,2027.0,19.95,0.27,46.603354,1.8883335
 rot,Crozes-Hermitage AOC E.Guigal,Frankreich,,Maison Guigal,Syrah,13.0,75.0,1,2019.0,2023.0,2025.0,24.95,0.33,46.603354,1.8883335
-rot,Crljenak Dalmacija Zlatan Otok,,,Zinfandel,,15.0,75.0,1,2016.0,2022.0,2025.0,27.5,0.37,46.3144754,11.0480288
+rot,Crljenak Dalmacija Zlatan Otok,,,Zinfandel,,15.0,75.0,1,2016.0,2022.0,2025.0,27.5,0.37,,
 rot,Craggy Range Aroha Pinot Noir Te Muna Road Vineyard Martinborough,Neuseeland,Pinot Noir,Antonio Galloni: 95,,13.3,75.0,1,2020.0,2024.0,2034.0,74.95,1.0,-41.5000831,172.8344077
 rot,Cottinelli Malanser Pinot Noir AOC,Schweiz,Ostschweiz,Weinbau Cottinelli,Pinot Noir,13.5,75.0,1,2021.0,2023.0,2026.0,19.95,0.27,46.7985624,8.2319736
 rot,Côtes du Ventoux AOC Terres de Truffes,Frankreich,Côtes du Rhône,Cave Terra Ventoux,Grenache,14.0,75.0,1,2019.0,2022.0,2025.0,11.95,0.16,46.603354,1.8883335
@@ -687,7 +687,7 @@ rot,Epesses Lavaux AOC Rouge Union Vinicole Cully,Schweiz,Waadt,Union Vinicole C
 rot,Epesses Lavaux AOC Rouge Union Vinicole Cully,Schweiz,Waadt,Union Vinicole Cully,Pinot Noir,13.0,70.0,1,2020.0,2022.0,2026.0,13.95,0.2,46.7985624,8.2319736
 rot,Emilia Romagna DOC Lambrusco Concerto Medici Ermete,Italien,Emilia-Romagna,Medici Ermete,Lambrusco,11.5,75.0,1,2021.0,2022.0,2025.0,16.4,0.22,42.6384261,12.674297
 rot,El Flamenco España Tinto,Spanien,,,,12.5,75.0,1,2021.0,2023.0,2026.0,3.95,0.05,39.3260685,-4.8379791
-rot,Ego Babić Fjaka,,,,,13.5,75.0,1,2020.0,2022.0,2026.0,19.5,0.26,46.3144754,11.0480288
+rot,Ego Babić Fjaka,,,,,13.5,75.0,1,2020.0,2022.0,2026.0,19.5,0.26,,
 rot,Eglisauer Beerli Blauburgunder,Schweiz,Ostschweiz,Coop,Pinot Noir,13.0,75.0,1,2021.0,2023.0,2024.0,9.95,0.13,46.7985624,8.2319736
 rot,Edition Peter Keller Burgenland DAC Cuvée J. Heinrich,Österreich,Burgenland,,Cabernet Franc,13.5,75.0,1,2012.0,2022.0,2025.0,29.5,0.39,47.59397,14.12456
 rot,Duriense IGP R de Romaneira Quinta da Romaneira,Portugal,Douro,,"Tempranillo, Tinto Cão, 
@@ -967,7 +967,7 @@ rot,Merlot Unplugged Burgenland Hannes Reeh,Österreich,Burgenland,Hannes Reeh,M
 rot,Merlot Unplugged Burgenland Hannes Reeh,Österreich,Burgenland,Hannes Reeh,Merlot,14.0,75.0,1,2018.0,2022.0,2025.0,27.95,0.37,47.59397,14.12456
 rot,Merlot Ticino DOC Riserva Cantina Ciubiasco,Schweiz,Tessin,Cantina Giubiasco,Merlot,13.0,75.0,1,2019.0,2022.0,2025.0,15.5,0.21,46.7985624,8.2319736
 rot,Merlot Svizzera IGT Scudo d'Oro,Schweiz,Tessin,Cantina Sociale Mendrisio,Merlot,12.7,75.0,1,2019.0,2022.0,2023.0,8.95,0.12,46.7985624,8.2319736
-rot,Merlot Quercus Goriska Brda Slowenien,,,,Merlot,13.5,75.0,1,2020.0,2022.0,2025.0,6.95,0.09,46.3144754,11.0480288
+rot,Merlot Quercus Goriska Brda Slowenien,,,,Merlot,13.5,75.0,1,2020.0,2022.0,2025.0,6.95,0.09,,
 rot,Merlot Haus & Hof Burgenland Hannes Reeh,Österreich,Burgenland,,Merlot,13.5,75.0,1,2021.0,2024.0,2027.0,11.95,0.16,47.59397,14.12456
 rot,Mercurey 1er Cru AOP Les Vasées Louis max,Frankreich,,Louis Max,Pinot Noir,13.0,75.0,1,2015.0,2018.0,2026.0,27.5,0.37,46.603354,1.8883335
 rot,Mendoza Vineyards Malbec Gran Reserva,Argentinien,Mendoza,Mendoza Vineyards,Malbec,14.0,75.0,1,2017.0,2022.0,2023.0,12.0,0.16,-34.9964963,-64.9672817
@@ -1091,7 +1091,7 @@ rot,Pessac-Léognan AOC Château La Garde,Frankreich,,Château La Garde,Cabernet
 rot,Pessac-Léognan AC Cru Classé Château Pape Clément 6x  75cl,Frankreich,,Château Pape Clément,Cabernet Franc,13.5,75.0,6,2021.0,2030.0,2038.0,489.0,1.09,46.603354,1.8883335
 rot,Pernand-Vergelesses Pinot Noir Domaine Dupasquier & Fils,Frankreich,,Dupasquier & Fils,Pinot Noir,13.0,75.0,1,2021.0,2023.0,2026.0,24.95,0.33,46.603354,1.8883335
 rot,Pernand-Vergelesses Pinot Noir Domaine Dupasquier & Fils,Frankreich,,Dupasquier & Fils,Pinot Noir,13.0,75.0,1,2020.0,2022.0,2025.0,24.95,0.33,46.603354,1.8883335
-rot,Penfolds Bin 128 Coonawarra Shiraz,,Penfolds,,,14.5,75.0,1,2019.0,,,42.5,0.57,46.3144754,11.0480288
+rot,Penfolds Bin 128 Coonawarra Shiraz,,Penfolds,,,14.5,75.0,1,2019.0,,,42.5,0.57,,
 rot,Penedes DO 3055 Merlot  Jean Leon,Spanien,Katalonien,Jean Leon,Petit Verdot,14.5,75.0,1,2019.0,2022.0,2041.0,17.8,0.24,39.3260685,-4.8379791
 rot,Pays D'Oc IGP Syrah La Sensuelle,Frankreich,Languedoc-Roussillon,,Syrah,12.5,75.0,1,2021.0,2020.0,2021.0,5.5,0.07,46.603354,1.8883335
 rot,Pays d'Oc IGP Syrah Grenache Laurentin,Frankreich,Languedoc-Roussillon,,Syrah,14.0,75.0,1,2019.0,2022.0,2025.0,9.95,0.13,46.603354,1.8883335
@@ -1103,7 +1103,7 @@ rot,Pauillac AC Château Lynch-Moussas 5ème Cru Classé 6x  75cl,Frankreich,,Ch
 rot,Pata Negra Oro Valdepeñas DO,Spanien,Kastilien-La Mancha,J. Garcia Carrion,Tempranillo,13.0,75.0,1,2019.0,2023.0,2026.0,6.65,0.09,39.3260685,-4.8379791
 rot,Paris Séduction Carignan-Syrah,Frankreich,,,Syrah,13.0,18.7,1,,2022.0,2025.0,2.95,0.16,46.603354,1.8883335
 rot,Parcelle 982 Gamay Grand Cru Collection Nature Domaine de la Ville,Schweiz,Waadt,,Gamay,13.0,75.0,1,2019.0,2022.0,2025.0,23.95,0.32,46.7985624,8.2319736
-rot,Papaskarasi Strandja Mountains Türkei Chamlija,,,,übrige Sorten,12.0,75.0,1,2015.0,2022.0,2023.0,18.95,0.25,46.3144754,11.0480288
+rot,Papaskarasi Strandja Mountains Türkei Chamlija,,,,übrige Sorten,12.0,75.0,1,2015.0,2022.0,2023.0,18.95,0.25,,
 rot,Palazzo Maffei Ripasso della Valpolicella Superiore DOC,Italien,Venetien,,Molinara,14.5,75.0,1,2019.0,2022.0,2024.0,14.5,0.19,42.6384261,12.674297
 rot,Padres Isola dei Nuraghi Rosso IGT,Italien,Sardinien,,Deaddis,13.5,75.0,1,2018.0,2022.0,2028.0,18.95,0.25,42.6384261,12.674297
 rot,Ostschweizer Blauburgunder Beerli,Schweiz,Ostschweiz,,Pinot Noir,14.0,75.0,1,2020.0,2022.0,2025.0,6.95,0.09,46.7985624,8.2319736
@@ -1178,7 +1178,7 @@ rot,Pomerol AC Château La Conseillante 6x  75cl,Frankreich,,,"Cabernet Franc,
                                 Merlot",13.5,75.0,6,2021.0,2029.0,2046.0,1242.0,2.76,46.603354,1.8883335
 rot,Pomerol AC Château Clinet 6x  75cl,Frankreich,,Château Clinet,Cabernet Franc,13.5,75.0,6,2021.0,2029.0,2041.0,525.0,1.17,46.603354,1.8883335
 rot,Poggio Solivo Merlot Ticino DOC,Schweiz,Tessin,Tamborini,Merlot,12.3,37.5,1,2018.0,2022.0,2023.0,9.5,0.25,46.7985624,8.2319736
-rot,Plavac Mali Zlatan Otok,,,,,14.0,75.0,1,2016.0,2022.0,2025.0,23.5,0.31,46.3144754,11.0480288
+rot,Plavac Mali Zlatan Otok,,,,,14.0,75.0,1,2016.0,2022.0,2025.0,23.5,0.31,,
 rot,Pinot Noir Ojo Negro Dieter Meier,Argentinien,,,Pinot Noir,13.5,75.0,1,2021.0,2022.0,2028.0,24.9,0.33,-34.9964963,-64.9672817
 rot,Pinot Noir Landwein,Deutschland,Baden,,Pinot Noir,13.0,75.0,1,2020.0,2022.0,2023.0,5.95,0.08,51.1638175,10.4478313
 rot,Pinot noir La Cascade Edition Peter Keller Domaine de Cressier Grillette Neuchâtel AOC,Schweiz,Drei-Seen-Region,,Pinot Noir,13.5,75.0,1,2017.0,2022.0,2030.0,44.95,0.6,46.7985624,8.2319736
@@ -1458,7 +1458,7 @@ rot,The Peak of Glory Scheiblhofer,Österreich,Burgenland,Erich Scheiblhofer,Cab
 rot,The Chocolate Block Swartland WO Boekenhoutskloof,,,,"Cabernet Sauvignon, 
                                 Grenache, Cinsault, 
                                 Viognier, 
-                                Syrah",14.5,75.0,1,2020.0,,,35.95,0.48,46.3144754,11.0480288
+                                Syrah",14.5,75.0,1,2020.0,,,35.95,0.48,,
 rot,The Chocolate Block Swartland WO Boekenhoutskloof,Südafrika,,Boekenhoutskloof,Cabernet Sauvignon,15.0,75.0,1,2019.0,2022.0,2025.0,35.95,0.48,-28.8166236,24.991639
 rot,The Armagh Shiraz Jim Barry Clare Valley,Australien,,,Syrah,14.0,75.0,1,2018.0,2024.0,2034.0,225.0,3.0,-24.7761086,134.755
 rot,Terre Siciliane Tripudium Pellegrino,Italien,Sizilien,Cantine Pellegrino,Cabernet Sauvignon,14.0,75.0,1,2018.0,2021.0,2022.0,11.35,0.15,42.6384261,12.674297
@@ -1498,8 +1498,8 @@ rot,Suisse VdP August Cuvée Rot,Schweiz,Ostschweiz,,"diverse Sorten,
                                 Pinot Noir, Garanoir",14.0,75.0,1,,2020.0,2022.0,11.95,0.16,46.7985624,8.2319736
 rot,Südtirol DOC Merus Tiefenbrunner Schlosskellerei Turmhof,Italien,Südtirol/Trentin/Friaul,Tiefenbrunner Schlosskellerei,Cabernet Sauvignon,14.0,75.0,1,2020.0,2022.0,2030.0,22.9,0.31,42.6384261,12.674297
 rot,Stone Eagle Cabernet Sauvignon,USA,,,Cabernet Sauvignon,12.5,75.0,1,2019.0,2022.0,2023.0,4.95,0.07,39.7837304,-100.445882
-rot,Stonecastle Vranac Kosovo,,,,,14.0,75.0,1,2017.0,2022.0,2025.0,8.95,0.12,46.3144754,11.0480288
-rot,Stonecastle Vranac Kosovo,,,,,14.0,75.0,1,2018.0,2023.0,2026.0,8.95,0.12,46.3144754,11.0480288
+rot,Stonecastle Vranac Kosovo,,,,,14.0,75.0,1,2017.0,2022.0,2025.0,8.95,0.12,,
+rot,Stonecastle Vranac Kosovo,,,,,14.0,75.0,1,2018.0,2023.0,2026.0,8.95,0.12,,
 rot,St-Estèphe AOC Château Tour de Pez,Frankreich,,Château Tour de Pez,Cabernet Franc,14.0,75.0,1,2014.0,2022.0,2029.0,24.95,0.33,46.603354,1.8883335
 rot,St-Estèphe AOC Château Tour de Pez,Frankreich,,Château Tour de Pez,Cabernet Franc,14.0,75.0,1,2016.0,2022.0,2030.0,23.95,0.32,46.603354,1.8883335
 rot,St-Estèphe AOC Château Lilian Ladouys,Frankreich,,Château Lilian Ladouys,Cabernet Sauvignon,14.0,75.0,1,2017.0,2022.0,2030.0,24.95,0.33,46.603354,1.8883335
@@ -1771,7 +1771,7 @@ rot,Valais AOC Humagne Rouge Bibacchus,Schweiz,Wallis,Les Celliers de Sion,Humag
 rot,Vully AOC Pinot Noir,Schweiz,Waadt,,Pinot Noir,13.0,75.0,1,2021.0,2023.0,2024.0,16.5,0.22,46.7985624,8.2319736
 rot,Vully AOC Cave et Domaine du Petit Château Diolinoir,Schweiz,Drei-Seen-Region,Diolinoir,,13.5,75.0,1,2018.0,2022.0,2025.0,39.95,0.53,46.7985624,8.2319736
 rot,Vranje Nostalgija Winery Aleksic,,,,"Cabernet Sauvignon, 
-                                Merlot",13.5,75.0,1,2018.0,2022.0,2025.0,9.5,0.13,46.3144754,11.0480288
+                                Merlot",13.5,75.0,1,2018.0,2022.0,2025.0,9.5,0.13,,
 rot,Vosne-Romanée AOC Domaine du Clos Frantin A. Bichot,Frankreich,,Maison Albert Bichot,,0.0,75.0,1,2018.0,2023.0,2027.0,59.95,0.8,46.603354,1.8883335
 rot,Vosne-Romanée 1er Cru Les Malconsorts,Frankreich,,Maison Albert Bichot,Pinot Noir,14.0,75.0,1,2018.0,2022.0,2035.0,115.0,1.53,46.603354,1.8883335
 rot,Vosne-Romanée 1er Cru Les Malconsorts,Frankreich,,Maison Albert Bichot,Pinot Noir,13.5,75.0,1,2015.0,2022.0,2035.0,110.0,1.47,46.603354,1.8883335
@@ -1875,7 +1875,7 @@ rot,Wagram AT Josef Ehmoser Grüner Veltliner Hohenberg,Österreich,Niederöster
 rot,Waadt Cuvée Murat Le Clos de Céligny,Schweiz,Waadt,,"Cabernet Sauvignon, Gamaret,            Merlot",13.5,75.0,1,2018.0,2021.0,2024.0,20.95,0.28,46.7985624,8.2319736
 weiss,Bel-Horizon La Côte AOC,Schweiz,Waadt,Chasselas,,16.0,75.0,1,2018.0,2022.0,2023.0,19.95,0.27,46.7985624,8.2319736
 weiss,Beerenauslese Saulheimer Thörle,Deutschland,,Weingut Thörle,Riesling,14.0,75.0,1,2016.0,2022.0,2024.0,12.95,0.17,51.1638175,10.4478313
-weiss,Batroun MO Cuvée Altitudes White Ixsir,,,,"Muscat,               Viognier",12.5,75.0,1,2020.0,2023.0,2024.0,3.75,0.05,46.3144754,11.0480288
+weiss,Batroun MO Cuvée Altitudes White Ixsir,,,,"Muscat,               Viognier",12.5,75.0,1,2020.0,2023.0,2024.0,3.75,0.05,,
 weiss,Basel-Landschaft AOC Wysse Benkemer,Schweiz,Basel/Aargau,,"Chasselas,             Riesling x Silvaner",14.0,75.0,1,2021.0,2022.0,2026.0,17.5,0.23,46.7985624,8.2319736
 weiss,Basel-Landschaft AOC Wysse Benkemer,Schweiz,Basel/Aargau,,"Chasselas,            Riesling x Silvaner",15.5,75.0,1,2019.0,2024.0,2028.0,32.95,0.44,46.7985624,8.2319736
 weiss,Basel-Landschaft AOC Maisprach Pinot Noir Federweisser,Zürich,Pinot Noir,,,15.5,75.0,1,2018.0,2023.0,2027.0,32.95,0.44,47.3744489,8.5410422
@@ -1888,7 +1888,7 @@ weiss,Baden QbA Kaiserstuhl Pinot Gris,Deutschland,Baden,,Pinot Gris,16.0,75.0,1
 weiss,Baden QbA Kaiserstuhl Pinot Blanc Spätlese,Deutschland,,,Pinot Blanc,16.0,75.0,1,2016.0,2022.0,2023.0,29.95,0.4,51.1638175,10.4478313
 weiss,Baden Federleicht Blanc de Noir,Deutschland,Baden,,Pinot Noir,15.0,75.0,1,2019.0,2022.0,2029.0,28.5,0.38,51.1638175,10.4478313
 weiss,Avellino DOCG Fiano Le Grade,Italien,Kampanien,Vinosia,Fiano,16.5,75.0,1,2013.0,2022.0,2030.0,53.0,0.71,42.6384261,12.674297
-weiss,Auggener Gewürztraminer Spätlese Markgräflerland,,,,Gewürztraminer,15.0,75.0,1,2017.0,2023.0,2029.0,36.95,0.49,46.3144754,11.0480288
+weiss,Auggener Gewürztraminer Spätlese Markgräflerland,,,,Gewürztraminer,15.0,75.0,1,2017.0,2023.0,2029.0,36.95,0.49,,
 weiss,Araldica Roero Arneis DOCG,Italien,Piemont,Araldica,Arneis,16.0,75.0,1,2015.0,2022.0,2025.0,39.5,0.53,42.6384261,12.674297
 weiss,Araldica Gavi La Luciana DOCG,Italien,Piemont,Araldica,Cortese,16.0,75.0,1,2013.0,,,135.0,1.8,42.6384261,12.674297
 weiss,"AOP Alsace Grand Cru Goldert Gewurztraminer, Domaine Zind Humbrecht",Frankreich,Elsass,Domaine Zind-Humbrecht,Gewürztraminer,15.0,150.0,1,2018.0,2022.0,2025.0,47.5,0.32,46.603354,1.8883335
@@ -1988,10 +1988,10 @@ weiss,Bolgheri DOC Vermentino Tenuta Guado al Tasso,Italien,Toskana,,Vermentino,
 weiss,Bolgheri DOC Vermentino Guado al Tasso,Italien,Toskana,Marchesi Antinori,Vermentino,13.5,75.0,1,2019.0,2022.0,2023.0,14.95,0.2,42.6384261,12.674297
 weiss,Black Stallion Chardonnay Napa Valley,USA,,Black Stallion,Chardonnay,14.5,75.0,1,2018.0,2022.0,2026.0,52.0,0.69,39.7837304,-100.445882
 weiss,Bio-Vin de Pays Suisse Seyval Blanc Naturtalent,Schweiz,übrige Schweiz,Seyval Blanc,,13.5,75.0,1,2019.0,2022.0,2024.0,14.5,0.19,46.7985624,8.2319736
-weiss,Bio Terra Alpina Vino Bianco Lageder,,,"Chardonnay,                Garganega,             Pinot Gris, Müller-Thurgau",,13.5,75.0,1,2015.0,2022.0,2025.0,85.0,1.13,46.3144754,11.0480288
+weiss,Bio Terra Alpina Vino Bianco Lageder,,,"Chardonnay,                Garganega,             Pinot Gris, Müller-Thurgau",,13.5,75.0,1,2015.0,2022.0,2025.0,85.0,1.13,,
 weiss,Bio Gewürztraminer d'Alsace AOP Wolfberger,Frankreich,Elsass,Wolfberger,Gewürztraminer,14.5,150.0,1,,,,69.0,0.46,46.603354,1.8883335
 weiss,Bio Alentejo DOC Marquês de Borba Colheita,Portugal,Alentejo,João Portugal Ramos,Arinto,,75.0,1,2016.0,2022.0,2024.0,49.0,0.65,39.6621648,-8.1353519
-weiss,Bijelo 9 Cuvée Galic Kroatien,,,"Chardonnay,              Sauvignon Blanc,               Welschriesling",,13.0,75.0,1,2019.0,2019.0,2025.0,9.9,0.13,46.3144754,11.0480288
+weiss,Bijelo 9 Cuvée Galic Kroatien,,,"Chardonnay,              Sauvignon Blanc,               Welschriesling",,13.0,75.0,1,2019.0,2019.0,2025.0,9.9,0.13,,
 weiss,Bielersee AOC Chasselas Schafiser La Neuveville,Schweiz,Drei-Seen-Region,Chasselas,,13.5,75.0,1,2015.0,2015.0,2022.0,16.0,0.21,46.7985624,8.2319736
 weiss,Bielersee AOC Chasselas Neuveville Auberson et Fils,Schweiz,Drei-Seen-Region,Chasselas,,13.0,75.0,1,2018.0,,,38.95,0.52,46.7985624,8.2319736
 weiss,Greco di Tufo DOCG Greco L'Ariella Vinosia,Italien,Kampanien,Vinosia,Greco,14.0,75.0,1,2013.0,2022.0,2026.0,29.95,0.4,42.6384261,12.674297
@@ -2086,11 +2086,11 @@ weiss,La Côte AOC Chasselas Mont-Sur-Rolle Belcolline,Schweiz,Waadt,,Chasselas,
 weiss,La Côte AOC Chasselas La Grand'Rue Domaine de la Ville de Morges,Schweiz,Waadt,Domaine de la Ville de Morges,Chasselas,13.5,75.0,1,2015.0,2022.0,2023.0,24.0,0.32,46.7985624,8.2319736
 weiss,L'Oriol Chardonnay Pays d'Oc IGP,Frankreich,Languedoc-Roussillon,,Chardonnay,14.5,75.0,1,2020.0,2022.0,2025.0,28.0,0.37,46.603354,1.8883335
 weiss,L'A.p.Ro blanc 18:30 Valais AOC,Schweiz,Wallis,,"Malvasia,           Sauvignon Blanc,             Viognier, Humagne Banc, Amigne",13.5,75.0,1,2017.0,2017.0,2022.0,15.0,0.2,46.7985624,8.2319736
-weiss,Kutjevo Suho Vino Grasevina Krauthaker,,Welschriesling,,,15.0,75.0,6,2021.0,2023.0,2028.0,89.7,0.2,46.3144754,11.0480288
+weiss,Kutjevo Suho Vino Grasevina Krauthaker,,Welschriesling,,,15.0,75.0,6,2021.0,2023.0,2028.0,89.7,0.2,,
 weiss,Künstler Féchy AOC,Schweiz,Waadt,,Chasselas,14.5,75.0,1,2018.0,2022.0,2023.0,16.5,0.22,46.7985624,8.2319736
 weiss,Künstler Féchy AOC,Schweiz,Waadt,,Chasselas,14.5,75.0,1,2017.0,2023.0,2026.0,11.95,0.16,46.7985624,8.2319736
 weiss,Kourtaki Retsina Attika,Griechenland,,,,13.0,100.0,1,,2022.0,2025.0,4.5,0.04,38.9953683,21.9877132
-weiss,Kangaroo Ridge Chardonnay,,,,Chardonnay,13.5,75.0,1,2018.0,2022.0,2025.0,9.95,0.13,46.3144754,11.0480288
+weiss,Kangaroo Ridge Chardonnay,,,,Chardonnay,13.5,75.0,1,2018.0,2022.0,2025.0,9.95,0.13,,
 weiss,Kamptal Singing Grüner Veltliner Laurenz V,Österreich,,,,13.5,75.0,1,2019.0,2023.0,2024.0,14.95,0.2,47.59397,14.12456
 weiss,Kampanien Falanghina del Sannio DOC Mastroberardino,Kampanien,Falanghina,,,12.5,75.0,1,2021.0,2023.0,2029.0,7.5,0.1,40.860672,14.843984
 weiss,Jacob's Creek Chardonnay,Australien,,Jacob's Creek,Chardonnay,13.5,75.0,1,2013.0,2022.0,2028.0,59.0,0.79,-24.7761086,134.755
@@ -2107,7 +2107,7 @@ weiss,Heida AOC Valais Étoile Dorée,Schweiz,Wallis,Heida,,13.0,75.0,1,2019.0,2
 weiss,Hallauer Riesling-Sylvaner AOC,Schweiz,Ostschweiz,,Riesling x Silvaner,14.5,75.0,1,2019.0,,,17.95,0.24,46.7985624,8.2319736
 weiss,Grüner Veltliner Single Vineyard Sohm & Kracher,Österreich,Niederösterreich,Sohm & Kracher,,13.5,75.0,1,2019.0,2022.0,2026.0,17.95,0.24,47.59397,14.12456
 weiss,Grüner Veltliner Sauberg Edition Peter Keller,Österreich,,,Grüner Veltliner,13.0,75.0,1,2019.0,2022.0,2023.0,7.95,0.11,47.59397,14.12456
-weiss,Grüner Veltliner Sauberg Edition Peter Keller,,,,,13.5,75.0,1,2020.0,2023.0,2024.0,10.65,0.14,46.3144754,11.0480288
+weiss,Grüner Veltliner Sauberg Edition Peter Keller,,,,,13.5,75.0,1,2020.0,2023.0,2024.0,10.65,0.14,,
 weiss,Grüner Veltliner Sauberg Edition Peter Keller,Österreich,,,,13.0,75.0,1,2020.0,2023.0,2027.0,9.5,0.13,47.59397,14.12456
 weiss,Grüner Veltliner Lion Sohm & Kracher,Österreich,Niederösterreich,Sohm & Kracher,,14.0,75.0,1,2018.0,2023.0,2027.0,29.95,0.4,47.59397,14.12456
 weiss,Grüner Veltliner Himmelstiege Federspiel Domäne Wachau,Österreich,,Domäne Wachau,,13.0,75.0,1,2020.0,2022.0,2025.0,8.95,0.12,47.59397,14.12456
@@ -2288,7 +2288,7 @@ weiss,Rheingau Riesling Lorcher Krone QbA Eva Fricke,Deutschland,Rheingau,Eva Fr
 weiss,Rheingau Riesling Lorcher Krone QbA Eva Fricke,Deutschland,Rheingau,Eva Fricke,Riesling,14.5,75.0,1,2018.0,2022.0,2028.0,19.95,0.27,51.1638175,10.4478313
 weiss,Rheingau Riesling Lorcher Krone QbA Eva Fricke,Deutschland,Rheingau,Eva Fricke,Riesling,14.5,75.0,1,2017.0,2023.0,2029.0,19.95,0.27,51.1638175,10.4478313
 weiss,Rheingau Kiedricher Riesling QbA trocken Eva Fricke,Deutschland,Rheingau,Eva Fricke,Riesling,13.5,75.0,6,2021.0,2024.0,2029.0,93.0,0.21,51.1638175,10.4478313
-weiss,Rebula Quercus Goriska Brda Slowenien,,,,,13.0,75.0,1,2017.0,2022.0,2042.0,59.5,0.79,46.3144754,11.0480288
+weiss,Rebula Quercus Goriska Brda Slowenien,,,,,13.0,75.0,1,2017.0,2022.0,2042.0,59.5,0.79,,
 weiss,Räuschling AOC Edition Peter Keller Weingut Schwarzenbach,Schweiz,Zürich,Weingut Schwarzenbach,,13.0,75.0,1,2015.0,2022.0,2042.0,52.5,0.7,46.7985624,8.2319736
 weiss,Puligny-Montrachet AOC Joseph Drouhin,Frankreich,,,Chardonnay,13.5,75.0,1,2020.0,2022.0,2029.0,25.95,0.35,46.603354,1.8883335
 weiss,Pro Montagna Valais AOC Heida Visperterminen,Schweiz,Wallis,St. Jodernkellerei,Heida,13.0,75.0,1,2017.0,2022.0,2027.0,32.5,0.43,46.7985624,8.2319736
@@ -2318,7 +2318,7 @@ weiss,Terre Siciliane IGT Terre Rosse di Giabbascio Catarratto BIO,Italien,Sizil
 weiss,Terra Alta Herència Altés Serra Blanc,Spanien,Katalonien,Herència Altés,,13.0,75.0,1,2018.0,2027.0,2031.0,54.95,0.73,39.3260685,-4.8379791
 weiss,Terra Alta Herència Altés Serra Blanc,Spanien,Katalonien,Herència Altés,Grenache,14.5,75.0,1,2013.0,2022.0,2035.0,99.0,1.32,39.3260685,-4.8379791
 weiss,Tavernello Vino da Tavola Bianco,Italien,übrige Regionen EU,,,14.5,75.0,1,2014.0,2022.0,2035.0,99.0,1.32,42.6384261,12.674297
-weiss,Tamjanika Zuti Cvet Aleksic,,Muscat,,,14.5,75.0,1,2015.0,2022.0,2035.0,139.0,1.85,46.3144754,11.0480288
+weiss,Tamjanika Zuti Cvet Aleksic,,Muscat,,,14.5,75.0,1,2015.0,2022.0,2035.0,139.0,1.85,,
 weiss,Suisse VdP Sauvignon Blanc Selection Widmer,Schweiz,übrige Schweiz,,Sauvignon Blanc,14.5,75.0,1,2018.0,2028.0,2048.0,99.0,1.32,46.7985624,8.2319736
 weiss,Suisse VdP Bodensee Cuvée Weiss,Schweiz,Ostschweiz,,diverse Sorten,14.0,75.0,1,2009.0,2022.0,2029.0,205.0,2.73,46.7985624,8.2319736
 weiss,Suisse VdP Assemblage Blanc Porte Novembre Ice Maison Gilliard,Schweiz,Wallis,,,14.5,75.0,1,2017.0,2022.0,2033.0,92.5,1.23,46.7985624,8.2319736
@@ -2357,7 +2357,7 @@ weiss,Schaffhausen AOC Pinot Blanc Heerenberg,Schweiz,Ostschweiz,WeinKeller.sh,P
 weiss,Sauvignon Blanc Napa Valley Black Stallion,USA,,Black Stallion,Sauvignon Blanc,14.8,150.0,1,2019.0,2023.0,2024.0,99.95,0.67,39.7837304,-100.445882
 weiss,Sauvignon Blanc Marlborough Matua,Neuseeland,,Matua,Sauvignon Blanc,14.0,75.0,1,2019.0,2020.0,2022.0,47.95,0.64,-41.5000831,172.8344077
 weiss,Sauvignon blanc Leo Hillinger,Österreich,,Leo Hillinger,Sauvignon Blanc,14.0,75.0,1,2018.0,2022.0,2025.0,35.5,0.47,47.59397,14.12456
-weiss,Sauvignon Blanc Galic Kroatien,,,,Sauvignon Blanc,13.0,75.0,1,2015.0,2022.0,2024.0,68.0,0.91,46.3144754,11.0480288
+weiss,Sauvignon Blanc Galic Kroatien,,,,Sauvignon Blanc,13.0,75.0,1,2015.0,2022.0,2024.0,68.0,0.91,,
 weiss,Valais AOC Heida Maître de Chais,Schweiz,Wallis,Provins,Heida,14.5,75.0,1,2016.0,2022.0,2029.0,89.95,1.2,46.7985624,8.2319736
 weiss,Valais AOC Heida Les Perlines,Schweiz,Wallis,Maison Gilliard,Heida,14.5,75.0,1,2019.0,2022.0,2024.0,17.5,0.23,46.7985624,8.2319736
 weiss,Valais AOC Heida Les Perlines,Schweiz,Wallis,Maison Gilliard,Heida,14.0,75.0,1,2016.0,2022.0,2031.0,43.95,0.59,46.7985624,8.2319736
@@ -2437,9 +2437,9 @@ weiss,Vinho Verde DOC Alvarinho Solar de Serrade Monção,Portugal,Vinho Verde,S
 weiss,Vinho Verde DOC Alvarinho Barão do Hospital,Portugal,Vinho Verde,Alvarinho,,14.0,75.0,1,2015.0,2022.0,2024.0,23.95,0.32,39.6621648,-8.1353519
 weiss,Vinho Regional Beira Atlântico Maria Gomes Branco Luis Pato,Portugal,,Robert Parker: 88,,13.5,75.0,1,2019.0,2020.0,2024.0,4.15,0.06,39.6621648,-8.1353519
 weiss,Vin de Pays Suisse Dénuo Cuvée Blanc Staatskellerei Zürich,Schweiz,Zürich,Staatskellerei Zürich,Muscat,13.5,100.0,1,,,,4.75,0.05,46.7985624,8.2319736
-weiss,Vin Blanc & Pêche Very peach,,,,,15.0,75.0,1,2015.0,2019.0,2027.0,95.0,1.27,46.3144754,11.0480288
-weiss,Vin Blanc,,,,,13.0,75.0,1,2021.0,2022.0,2026.0,16.95,0.23,46.3144754,11.0480288
-weiss,Vin Blanc,,,,,13.5,75.0,1,2020.0,2022.0,2025.0,8.95,0.12,46.3144754,11.0480288
+weiss,Vin Blanc & Pêche Very peach,,,,,15.0,75.0,1,2015.0,2019.0,2027.0,95.0,1.27,,
+weiss,Vin Blanc,,,,,13.0,75.0,1,2021.0,2022.0,2026.0,16.95,0.23,,
+weiss,Vin Blanc,,,,,13.5,75.0,1,2020.0,2022.0,2025.0,8.95,0.12,,
 weiss,Vin Blanc,Schweiz,übrige Regionen EU,,,14.0,75.0,1,2021.0,2023.0,2026.0,9.95,0.13,46.7985624,8.2319736
 weiss,Vigneto Storico Friulano DOC Colli Orientali Friuli,Italien,Südtirol/Trentin/Friaul,Gigante Adriano,Friulano,14.5,75.0,1,2020.0,2023.0,2028.0,11.95,0.16,42.6384261,12.674297
 weiss,Vigneti delle Dolomiti IGT Norico Bianco Cavit,Italien,Südtirol/Trentin/Friaul,Cavit,Chardonnay,14.5,75.0,1,2020.0,2022.0,2025.0,6.95,0.09,42.6384261,12.674297
@@ -2513,7 +2513,7 @@ champagner,Champagne AOC Pommery Brut Royal Silver,Frankreich,Champagne,,"Chardo
                                 Pinot Meunier",12.5,75.0,1,2020.0,2023.0,2024.0,3.75,0.05,46.603354,1.8883335
 champagner,Champagne AOC Pommery Brut Royal,Frankreich,Champagne,,"Chardonnay, 
                                 Pinot Meunier",14.0,75.0,1,2021.0,2022.0,2026.0,17.5,0.23,46.603354,1.8883335
-champagner,Champagne AOC Pommery Brut Royal,,Champagne,,Chardonnay,15.5,75.0,1,2019.0,2024.0,2028.0,32.95,0.44,46.3144754,11.0480288
+champagner,Champagne AOC Pommery Brut Royal,,Champagne,,Chardonnay,15.5,75.0,1,2019.0,2024.0,2028.0,32.95,0.44,,
 champagner,Champagne AOC Nicolas Henri Brut,Frankreich,Champagne,,Chardonnay,15.5,75.0,1,2018.0,2023.0,2027.0,32.95,0.44,46.603354,1.8883335
 champagner,Champagne AOC Nectar Impérial Moët & Chandon,Frankreich,Champagne,,"Chardonnay, 
                                 Pinot Noir, 
@@ -2799,7 +2799,7 @@ rose,Bio Pinot Noir Rosé Weingut Zähringer,Deutschland,Baden,Pinot Noir,,13.0,
 rose,Bio Naturaplan Cerasuolo d'Abruzzo DOC Jasci,Italien,Abruzzen,Azienda Agricola Jasci,Montepulciano,13.5,75.0,1,2020.0,2022.0,2025.0,15.0,0.2,42.6384261,12.674297
 rose,Bielersee AOC Oeil de Perdrix La Neuveville,Schweiz,Drei-Seen-Region,,,13.0,75.0,1,2020.0,2022.0,2025.0,9.95,0.13,46.7985624,8.2319736
 rose,Batroun MO Cuvée Altitudes rosé Ixsir,,,"Caladoc, Cinsault, 
-                                Syrah",,13.0,75.0,1,2020.0,,,18.95,0.25,46.3144754,11.0480288
+                                Syrah",,13.0,75.0,1,2020.0,,,18.95,0.25,,
 rose,Bardolino DOC Chiaretto Zeni,Italien,Venetien,Cantina Zeni,Molinara,14.0,75.0,1,2020.0,2022.0,2028.0,13.95,0.19,42.6384261,12.674297
 rose,Abruzzo DOC Montepulciano Prope Cerasuolo Velenosi Vini,Italien,Abruzzen,Velenosi Vini,Montepulciano,13.0,75.0,1,,2022.0,2025.0,13.95,0.19,42.6384261,12.674297
 rose,Abruzzo DOC Montepulciano Cerasuolo Rosé Talamonti,Italien,Abruzzen,Talamonti,Montepulciano,13.5,75.0,1,2020.0,2022.0,2025.0,14.5,0.19,42.6384261,12.674297
@@ -2937,7 +2937,7 @@ rose,Rosé Listel Grain de Gris Terres du Midi IGP,Frankreich,Languedoc-Roussill
 rose,Rosé Gris d'Argens IGP Var,Frankreich,Provence,Grenache,,13.3,75.0,1,2020.0,2021.0,2024.0,24.95,0.33,46.603354,1.8883335
 rose,Rosé Galic Kroatien,,,"Cabernet Sauvignon, 
                                 Merlot, 
-                                Pinot Noir",,14.0,75.0,1,2020.0,2022.0,2025.0,18.5,0.25,46.3144754,11.0480288
+                                Pinot Noir",,14.0,75.0,1,2020.0,2022.0,2025.0,18.5,0.25,,
 rose,Rosé Flamingo Ribera del Duero San Cristobal,Spanien,Ribera del Duero,Marqués de Vargas,Tempranillo,15.0,75.0,1,2018.0,2022.0,2028.0,34.5,0.46,39.3260685,-4.8379791
 schaumwein,Freixenet Spumante Italian Rosé,Italien,Venetien,,diverse Sorten,16.0,75.0,1,2018.0,2022.0,2023.0,19.95,0.27,42.6384261,12.674297
 schaumwein,Freixenet Legero Alcohol Free,Spanien,Katalonien,,Muscadelle,14.0,75.0,1,2016.0,2022.0,2024.0,12.95,0.17,39.3260685,-4.8379791
@@ -3049,7 +3049,7 @@ schaumwein,Pfalz Riesling Sekt Brut Weingut am Nil,Deutschland,Pfalz,,Riesling,1
 schaumwein,Natureo Sparkling Torres alkoholfrei semi seco,Spanien,,,,13.5,75.0,1,2018.0,2024.0,2029.0,42.5,0.57,39.3260685,-4.8379791
 schaumwein,Naturaplan Bio Spumante Vigne Resistenti Raphael Dal Bo,Italien,Venetien,,,13.5,75.0,1,2017.0,2023.0,2028.0,42.5,0.57,42.6384261,12.674297
 schaumwein,Naturaplan Bio Spumante Rosé Raphael Dal Bo,Italien,Venetien,Glera,Glera,14.0,75.0,1,2018.0,2023.0,2026.0,17.5,0.23,42.6384261,12.674297
-schaumwein,Naturaplan Bio Rimuss Apéro Champion alkoholfrei,,,,,13.5,75.0,1,2018.0,2023.0,2028.0,39.5,0.53,46.3144754,11.0480288
+schaumwein,Naturaplan Bio Rimuss Apéro Champion alkoholfrei,,,,,13.5,75.0,1,2018.0,2023.0,2028.0,39.5,0.53,,
 schaumwein,Naturaplan Bio Prosecco Raphael Dal Bo Extra Dry DOC,Italien,Venetien,Glera,Glera,14.5,37.5,1,2018.0,2023.0,2026.0,9.95,0.27,42.6384261,12.674297
 schaumwein,Naturaplan Bio Prosecco Frizzante Raphael Dal Bo DOC,Italien,Venetien,Glera,Glera,14.5,75.0,1,2013.0,2022.0,2025.0,105.0,1.4,42.6384261,12.674297
 schaumwein,Naturaplan Bio Prosecco DOC Rosé extra dry La Jara,Italien,Venetien,,Pinot Noir,14.0,75.0,1,2013.0,2022.0,2024.0,85.0,1.13,42.6384261,12.674297
@@ -3082,7 +3082,7 @@ schaumwein,Mionetto Il Lychee,Italien,,,diverse Sorten,14.0,75.0,1,2018.0,2022.0
 schaumwein,Mionetto IL Hugo,Italien,,,Assemblage de cépages,12.5,75.0,1,2021.0,,,5.75,0.08,42.6384261,12.674297
 schaumwein,Mauler Demi-Sec,Schweiz,übrige Schweiz,,Chasselas,13.5,75.0,1,2016.0,2022.0,2023.0,39.9,0.53,46.7985624,8.2319736
 schaumwein,Mauler Cordon Rosé demi-sec,Schweiz,Drei-Seen-Region,,Cabernet Sauvignon,13.5,75.0,1,2018.0,2023.0,2031.0,7.45,0.1,46.7985624,8.2319736
-schaumwein,Mauler Cadet Mauler sans alcool,,,,,14.0,75.0,1,2019.0,2022.0,2028.0,19.5,0.26,46.3144754,11.0480288
+schaumwein,Mauler Cadet Mauler sans alcool,,,,,14.0,75.0,1,2019.0,2022.0,2028.0,19.5,0.26,,
 schaumwein,Mauler Brut,Schweiz,übrige Schweiz,,"Chardonnay, 
  Chenin Blanc",14.0,75.0,1,2018.0,2022.0,2028.0,48.0,0.64,46.7985624,8.2319736
 schaumwein,Mauler brut,Schweiz,übrige Schweiz,,"Chardonnay, 
@@ -3153,11 +3153,11 @@ schaumwein,Roger Goulart Cava Reserva Brut,Katalonien,,,Macabeo,14.5,75.0,1,2020
 schaumwein,Roger Goulart Brut Cava Rosé,Katalonien,,,Pinot Noir,13.0,75.0,1,2021.0,2023.0,2025.0,14.95,0.2,41.8523094,1.5745043
 schaumwein,Rioja DOCa Lumen Royal Carlton brut Bodegas Bilbaìnas,Spanien,Katalonien,,,14.0,75.0,1,2021.0,2022.0,2025.0,13.95,0.19,39.3260685,-4.8379791
 schaumwein,Rioja DOCa Conde de Haro Bodegas Muga Reserva Brut,Spanien,Rioja,Bodegas Muga,Chardonnay,12.5,75.0,1,2013.0,2022.0,2026.0,19.95,0.27,39.3260685,-4.8379791
-schaumwein,Rimuss Party Traubensaft alkoholfrei weiss,,,,,12.5,75.0,1,2020.0,2022.0,2024.0,3.95,0.05,46.3144754,11.0480288
-schaumwein,Rimuss Fruité alkoholfrei,,,,,0.0,100.0,1,,2022.0,2025.0,4.5,0.04,46.3144754,11.0480288
-schaumwein,Rimuss Fresh Traubensaft weiss alkoholfrei,,,,,13.5,75.0,1,2010.0,2022.0,2045.0,249.0,3.32,46.3144754,11.0480288
-schaumwein,Rimuss Champion Traubensaft alkoholfrei weiss,,,,,13.0,75.0,1,2019.0,,,42.95,0.57,46.3144754,11.0480288
-schaumwein,Rimuss Bianco Dry alkoholfrei,,,,,14.5,75.0,1,2011.0,2022.0,2023.0,46.0,0.61,46.3144754,11.0480288
+schaumwein,Rimuss Party Traubensaft alkoholfrei weiss,,,,,12.5,75.0,1,2020.0,2022.0,2024.0,3.95,0.05,,
+schaumwein,Rimuss Fruité alkoholfrei,,,,,0.0,100.0,1,,2022.0,2025.0,4.5,0.04,,
+schaumwein,Rimuss Fresh Traubensaft weiss alkoholfrei,,,,,13.5,75.0,1,2010.0,2022.0,2045.0,249.0,3.32,,
+schaumwein,Rimuss Champion Traubensaft alkoholfrei weiss,,,,,13.0,75.0,1,2019.0,,,42.95,0.57,,
+schaumwein,Rimuss Bianco Dry alkoholfrei,,,,,14.5,75.0,1,2011.0,2022.0,2023.0,46.0,0.61,,
 schaumwein,Rich Secco Vino Frizzante dry,Italien,Venetien,,,14.0,75.0,1,2014.0,2022.0,2029.0,108.0,1.44,42.6384261,12.674297
 schaumwein,Reggiano Lambrusco DOP Quercioli secco,Italien,Emilia-Romagna,Lambrusco,,14.0,75.0,1,2015.0,2022.0,2025.0,99.0,1.32,42.6384261,12.674297
 schaumwein,Raventós i Blanc Textures de Pedra,Spanien,Katalonien,Raventós i Blanc,Xarel-lo,13.3,75.0,1,2021.0,2022.0,2024.0,17.95,0.24,39.3260685,-4.8379791
@@ -3165,5 +3165,5 @@ schaumwein,Raphael Dal Bo Prosecco Superiore DOCG Millesimato Extra Dry,Italien,
 schaumwein,Prosecco Superiore DOCG Brut 1924 Carpène Malvolti,Italien,Venetien,,"diverse Sorten, 
  Glera",14.0,75.0,1,2020.0,2022.0,2025.0,18.5,0.25,42.6384261,12.674297
 schaumwein,Prosecco Rosé 0.15 Millesimato Brut,Italien,Venetien,De Stefani,Pinot Noir,15.0,75.0,1,2018.0,2022.0,2028.0,34.5,0.46,42.6384261,12.674297
-schaumwein,Prosecco Frizzante DOC Canti 75CL,,,,,12.5,75.0,1,2005.0,,,35.25,0.47,46.3144754,11.0480288
+schaumwein,Prosecco Frizzante DOC Canti 75CL,,,,,12.5,75.0,1,2005.0,,,35.25,0.47,,
 schaumwein,Prosecco DOC Vigne Dogi,Italien,Venetien,,Glera,13.5,150.0,1,2021.0,2032.0,2047.0,123.5,0.82,42.6384261,12.674297
