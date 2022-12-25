@@ -23,7 +23,7 @@
 - [x] Data preparation (e.g. remove missing values and duplicates, create new variables, enrich the data with open data).
 - [x] Data storage in a database like sqlite or MySQL.
 - [ ] Non-graphical and graphical exploratory data analysis (EDA).
-- [ ] Use of either regression or classification as the modelling method.
+- [x] Use of either **regression** or ~~classification~~ as the modelling method.
 - [ ] Model evaluation using suitable measures of fit.
 - [ ] Correct interpretation of model results and measures of fit.
 - [ ] Making the material (data, Jupyter notebooks, ...) available on Moodle.
