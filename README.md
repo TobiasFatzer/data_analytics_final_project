@@ -24,7 +24,7 @@
 - [x] Data storage in a database like sqlite or MySQL.
 - [ ] Non-graphical and graphical exploratory data analysis (EDA).
 - [x] Use of either **regression** or ~~classification~~ as the modelling method.
-- [ ] Model evaluation using suitable measures of fit.
+- [X] Model evaluation using suitable measures of fit.
 - [ ] Correct interpretation of model results and measures of fit.
 - [ ] Making the material (data, Jupyter notebooks, ...) available on Moodle.
 ### Additional points, if the following criteria are met (max 5 points):
