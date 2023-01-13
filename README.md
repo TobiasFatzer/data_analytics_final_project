@@ -14,7 +14,7 @@
 
 ### Tobias Fatzer       fatzetob@students.zhaw.ch
 
-### Code:	[Github](https://github.com/TobiasFatzer/STAT_Abgabe)
+### Code:	[Github](https://github.com/TobiasFatzer/data_analytics_final_project)
 
 # Requirements
 ### Minimum requirements (8 points):
@@ -22,14 +22,14 @@
 - [x] The project must integrate several topics presented in the module, at a minimum these are the following:
 - [x] Data preparation (e.g. remove missing values and duplicates, create new variables, enrich the data with open data).
 - [x] Data storage in a database like sqlite or MySQL.
-- [ ] Non-graphical and graphical exploratory data analysis (EDA).
+- [X] Non-graphical and graphical exploratory data analysis (EDA).
 - [x] Use of either **regression** or ~~classification~~ as the modelling method.
 - [X] Model evaluation using suitable measures of fit.
-- [ ] Correct interpretation of model results and measures of fit.
-- [ ] Making the material (data, Jupyter notebooks, ...) available on Moodle.
+- [X] Correct interpretation of model results and measures of fit.
+- [X] Making the material (data, Jupyter notebooks, ...) available on Moodle.
 ### Additional points, if the following criteria are met (max 5 points):
-- [ ] Creativity of implementation (creative is anything not specified in the lessons and exercises).
+- [X] Creativity of implementation (creative is anything not specified in the lessons and exercises).
 - [x] Use of a MySQL database for data storage and SQL-queries from within Python.
 - [x] Integration and visualization of geographical data.
-- [ ] Use of a statistical test for the analysis of contingency tables or analysis of variance (ANOVA).
+- [X] Use of a statistical test for the analysis of contingency tables or analysis of variance (ANOVA).
 - [ ] Use of k-means clustering in addition to the regression or classification model.
